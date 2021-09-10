@@ -1,0 +1,68 @@
+Genome,Scheme,ST,arcC,ddl,gki,recP,tdk,tpi,yqiL,clonal_complex
+GCF_000009545.fna.gz,suberis,1,1,1,1,1,1,1,1,ST-5 complex
+GCF_000975325.fna.gz,suberis,-,1,1,2,2|1,2,1,1,
+GCF_000975335.fna.gz,suberis,23,2,1,2,1,2,1,10,ST-5 complex
+GCF_000975345.fna.gz,suberis,11,1,1,2,2,2,1,10,ST-5 complex
+GCF_000975355.fna.gz,suberis,55,15,1,4,3,13,4,3,
+GCF_000975405.fna.gz,suberis,-,3,1,-,3,5,2,3,
+GCF_000975415.fna.gz,suberis,31,3,2,3,4,3,1,9,ST-86 complex
+GCF_000975435.fna.gz,suberis,5,1,1,2,1,2,1,2,ST-5 complex
+GCF_000975445.fna.gz,suberis,35,4,1,2,1,2,1,2,ST-5 complex
+GCF_000975485.fna.gz,suberis,6,1,1,2,1,2,1,3,ST-5 complex
+GCF_000975495.fna.gz,suberis,7,1,1,2,1,2,1,10,ST-5 complex
+GCF_000975505.fna.gz,suberis,23,2,1,2,1,2,1,10,ST-5 complex
+GCF_000975545.fna.gz,suberis,3,1,1,1,2,2,1,8,ST-5 complex
+GCF_002814135.fna.gz,suberis,new_ST,1,1,5,2,16,1,7,
+GCF_009706695.fna.gz,suberis,new_ST,86,2,4,12,5,4,3,
+GCF_009706705.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706755.fna.gz,suberis,new_alleles,4,1,4,2,~17,1,13,
+GCF_009706785.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706805.fna.gz,suberis,new_ST,86,2,4,12,5,4,3,
+GCF_009706815.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706825.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706845.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706885.fna.gz,suberis,new_ST,5,1,5,3,17,1,3,
+GCF_009706895.fna.gz,suberis,new_alleles,3,2,21,~4,5,4,3,
+GCF_009706905.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706935.fna.gz,suberis,new_ST,9,1,3,3,17,1,3,
+GCF_009706955.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009706985.fna.gz,suberis,new_alleles,2,1,~5,4,7,4,3,
+GCF_009706995.fna.gz,suberis,190,6,1,4,2,28,2,3,
+GCF_009707015.fna.gz,suberis,new_ST,21,1,13,1,3,2,3,
+GCF_009707035.fna.gz,suberis,741,1,1,5,1,17,1,3,ST-5 complex
+GCF_009707045.fna.gz,suberis,new_ST,21,1,5,2,17,1,14,
+GCF_009707085.fna.gz,suberis,new_alleles,4,1,3,2,42,1,~13,
+GCF_009707105.fna.gz,suberis,new_alleles,4,1,3,2,42,1,~13,
+GCF_009807055.fna.gz,suberis,new_ST,9,7,5,3,17,1,3,
+GCF_016113545.fna.gz,suberis,new_ST,3,25,3,2,5,2,3,
+GCF_016837285.fna.gz,suberis,new_ST,3,2,56,3,5,4,3,
+GCF_016837305.fna.gz,suberis,new_ST,1,1,5,1,3,2,3,
+GCF_016837325.fna.gz,suberis,new_ST,18,1,5,2,3,1,3,
+GCF_016837345.fna.gz,suberis,new_ST,3,2,21,3,5,4,3,
+GCF_016837365.fna.gz,suberis,new_ST,3,2,21,3,5,4,3,
+GCF_016837385.fna.gz,suberis,new_alleles,4,1,21,2,~84,1,3,
+GCF_016837405.fna.gz,suberis,new_ST,1,1,13,2,3,1,3,
+GCF_016837425.fna.gz,suberis,new_ST,3,2,21,3,5,4,3,
+GCF_016837445.fna.gz,suberis,new_ST,21,1,3,4,2,3,14,
+GCF_016837455.fna.gz,suberis,new_ST,21,1,3,4,17,3,13,
+GCF_016837485.fna.gz,suberis,new_alleles,~36,2,~11,3,9,4,3,
+GCF_016837505.fna.gz,suberis,425,4,1,5,2,13,1,3,
+GCF_016837525.fna.gz,suberis,new_ST,6,1,28,2,17,1,3,
+GCF_016837545.fna.gz,suberis,new_ST,18,1,2,2,3,3,14,
+GCF_016837565.fna.gz,suberis,new_ST,5,1,21,3,13,1,3,
+GCF_016837585.fna.gz,suberis,new_ST,5,1,3,3,13,1,3,
+GCF_016838345.fna.gz,suberis,new_ST,18,1,3,4,7,3,13,
+GCF_016838365.fna.gz,suberis,new_ST,21,1,13,1,3,1,3,
+GCF_016838375.fna.gz,suberis,-,5,1,3,3,17,12,-,
+GCF_016838425.fna.gz,suberis,new_ST,37,1,4,2,13,1,3,
+GCF_016838445.fna.gz,suberis,new_alleles,6,1,4,2,28,2,~3,
+GCF_016838465.fna.gz,suberis,new_ST,1,2,4,2,2,4,3,
+GCF_016838485.fna.gz,suberis,new_ST,32,1,2,4,17,1,3,
+GCF_016838495.fna.gz,suberis,new_ST,21,1,13,1,3,1,3,
+GCF_016838525.fna.gz,suberis,741,1,1,5,1,17,1,3,ST-5 complex
+GCF_016838545.fna.gz,suberis,new_ST,9,1,4,3,13,1,3,
+GCF_016838555.fna.gz,suberis,new_ST,19,1,5,3,4,1,3,
+GCF_900459985.fna.gz,suberis,new_alleles,5,~9,5,2,17,1,5,
+GCF_900460135.fna.gz,suberis,-,29,~16,~18,2,~71,6,-,
+GCF_900475595.fna.gz,suberis,1210,8,2,3,16,3,1,3,ST-86 complex
+GCF_900475695.fna.gz,suberis,new_alleles,9,1,5,2,20,~12,10,

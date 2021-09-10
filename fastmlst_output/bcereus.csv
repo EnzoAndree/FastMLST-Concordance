@@ -1,0 +1,1160 @@
+Genome,Scheme,ST,glp,gmk,ilv,pta,pur,pyc,tpi,clonal_complex
+GCF_000003645.fna.gz,bcereus,45,19,14,21,5,19,3,2,ST-205 complex
+GCF_000003955.fna.gz,bcereus,932,202,116,223,174,205,171,128,
+GCF_000007825.fna.gz,bcereus,921,13,125,8,11,11,12,169,ST-142 complex
+GCF_000008005.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_000011625.fna.gz,bcereus,908,115,124,119,116,119,108,88,
+GCF_000013065.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_000021205.fna.gz,bcereus,89,14,8,40,19,2,17,17,
+GCF_000021225.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000021305.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_000021785.fna.gz,bcereus,460,65,1,56,1,1,53,24,
+GCF_000022505.fna.gz,bcereus,11,34,1,32,1,33,37,24,ST-365 complex
+GCF_000143605.fna.gz,bcereus,935,34,1,83,1,18,29,5,ST-365 complex
+GCF_000160895.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_000160915.fna.gz,bcereus,108,38,1,32,16,18,33,24,ST-365 complex
+GCF_000160935.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_000161015.fna.gz,bcereus,38,24,12,50,21,23,31,19,
+GCF_000161035.fna.gz,bcereus,46,33,8,13,10,8,17,7,
+GCF_000161055.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_000161095.fna.gz,bcereus,196,64,10,79,36,56,22,11,ST-196 complex
+GCF_000161115.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_000161135.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_000161155.fna.gz,bcereus,111,43,26,35,42,39,41,30,ST-111 complex
+GCF_000161175.fna.gz,bcereus,511,13,8,9,28,9,12,8,ST-142 complex
+GCF_000161195.fna.gz,bcereus,471,43,50,35,125,128,41,30,ST-111 complex
+GCF_000161215.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000161235.fna.gz,bcereus,498,100,1,144,136,55,37,24,
+GCF_000161255.fna.gz,bcereus,-,142,83,247?,141,-,125,106,
+GCF_000161275.fna.gz,bcereus,501,7,8,14,26,138,50,7,
+GCF_000161295.fna.gz,bcereus,505,87,26,78,42,39,41,30,ST-111 complex
+GCF_000161315.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_000161355.fna.gz,bcereus,142,13,8,8,11,9,12,7,ST-142 complex
+GCF_000161375.fna.gz,bcereus,953,59,133,149,229,214,122,179,
+GCF_000161395.fna.gz,bcereus,932,202,116,223,174,205,171,128,
+GCF_000181615.fna.gz,bcereus,1448,172,71,280,29,24,14,7,
+GCF_000239195.fna.gz,bcereus,75,44,1,32,1,18,33,24,ST-365 complex
+GCF_000256545.fna.gz,bcereus,975,19,2,21,5,114,3,2,ST-205 complex
+GCF_000283675.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000290655.fna.gz,bcereus,670,18,10,5,15,17,9,11,
+GCF_000290675.fna.gz,bcereus,670,18,10,5,15,17,9,11,
+GCF_000290715.fna.gz,bcereus,1458,210,8,68,11,245,12,10,
+GCF_000290735.fna.gz,bcereus,363,13,8,9,107,9,12,81,ST-142 complex
+GCF_000290755.fna.gz,bcereus,962,13,8,8,7,9,12,7,ST-142 complex
+GCF_000290775.fna.gz,bcereus,1454,208,8,283,45,58,87,7,
+GCF_000290795.fna.gz,bcereus,17,12,8,11,11,9,13,5,
+GCF_000290815.fna.gz,bcereus,111,43,26,35,42,39,41,30,ST-111 complex
+GCF_000290835.fna.gz,bcereus,1457,212,128,287,222,203,204,65,
+GCF_000290855.fna.gz,bcereus,1456,220,118,282,226,210,185,176,
+GCF_000290875.fna.gz,bcereus,1443,19,2,234,5,208,18,2,ST-205 complex
+GCF_000290915.fna.gz,bcereus,321,23,10,5,15,17,23,11,
+GCF_000290935.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000290955.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_000290975.fna.gz,bcereus,1444,152,10,5,218,151,136,11,
+GCF_000290995.fna.gz,bcereus,164,3,2,63,5,36,3,4,
+GCF_000291035.fna.gz,bcereus,928,15,20,145,8,4,8,170,ST-97 complex
+GCF_000291055.fna.gz,bcereus,934,213,116,223,223,118,107,128,
+GCF_000291075.fna.gz,bcereus,952,64,132,249,228,213,190,178,
+GCF_000291115.fna.gz,bcereus,72,43,26,35,40,39,41,30,ST-111 complex
+GCF_000291135.fna.gz,bcereus,1453,206,1,285,214,18,29,19,
+GCF_000291155.fna.gz,bcereus,1012,26,51,104,120,110,180,79,
+GCF_000291175.fna.gz,bcereus,286,64,10,109,66,75,22,11,ST-196 complex
+GCF_000291195.fna.gz,bcereus,230,15,7,87,2,96,26,13,ST-23 complex
+GCF_000291215.fna.gz,bcereus,22,12,8,8,11,9,12,23,ST-142 complex
+GCF_000291235.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000291255.fna.gz,bcereus,922,208,8,48,219,58,87,7,
+GCF_000291275.fna.gz,bcereus,938,217,2,122,5,19,3,91,ST-205 complex
+GCF_000291295.fna.gz,bcereus,1450,218,87,104,69,103,202,18,
+GCF_000291355.fna.gz,bcereus,1451,221,131,243,227,211,203,177,
+GCF_000291395.fna.gz,bcereus,973,43,74,35,40,39,41,30,ST-111 complex
+GCF_000291415.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_000291435.fna.gz,bcereus,959,37,9,14,18,20,14,7,ST-18 complex
+GCF_000291455.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_000291475.fna.gz,bcereus,1449,215,116,281,170,207,144,172,
+GCF_000291515.fna.gz,bcereus,947,219,78,186,169,164,143,103,
+GCF_000291535.fna.gz,bcereus,959,37,9,14,18,20,14,7,ST-18 complex
+GCF_000291665.fna.gz,bcereus,723,158,78,193,169,164,143,103,
+GCF_000292415.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_000293505.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000293525.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000293545.fna.gz,bcereus,977,26,21,104,68,27,32,61,ST-336 complex
+GCF_000293685.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_000293705.fna.gz,bcereus,914,18,10,5,216,200,136,167,
+GCF_000293725.fna.gz,bcereus,968,15,20,23,8,4,64,39,
+GCF_000293745.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000338315.fna.gz,bcereus,120,6,4,3,4,46,6,36,
+GCF_000398785.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_000398945.fna.gz,bcereus,23,15,7,7,2,5,8,13,ST-23 complex
+GCF_000398965.fna.gz,bcereus,916,165,103,189,176,202,145,11,
+GCF_000398985.fna.gz,bcereus,1452,23,10,5,216,201,205,11,
+GCF_000399005.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_000399025.fna.gz,bcereus,960,7,8,15,12,2,16,7,ST-8 complex
+GCF_000399065.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_000399085.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_000399105.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_000399125.fna.gz,bcereus,964,14,8,9,81,60,12,7,
+GCF_000399145.fna.gz,bcereus,448,64,10,79,66,75,22,18,ST-196 complex
+GCF_000399165.fna.gz,bcereus,934,213,116,223,223,118,107,128,
+GCF_000399185.fna.gz,bcereus,23,15,7,7,2,5,8,13,ST-23 complex
+GCF_000399205.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000399225.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000399245.fna.gz,bcereus,1012,26,51,104,120,110,180,79,
+GCF_000399265.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_000399285.fna.gz,bcereus,746,81,53,117,193,113,93,145,
+GCF_000399305.fna.gz,bcereus,197,15,7,7,2,7,8,13,ST-23 complex
+GCF_000399325.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_000399345.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_000399365.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_000399385.fna.gz,bcereus,278,83,26,35,42,39,71,30,ST-111 complex
+GCF_000399405.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000399425.fna.gz,bcereus,1445,64,10,22,36,57,23,168,
+GCF_000399445.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_000399465.fna.gz,bcereus,1447,216,129,223,225,118,171,128,
+GCF_000399485.fna.gz,bcereus,-,109,18,120,24,-,30,173,
+GCF_000399505.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_000399525.fna.gz,bcereus,664,108,51,79,121,109,92,79,
+GCF_000399545.fna.gz,bcereus,1063,22,9,18,220,20,19,7,
+GCF_000399565.fna.gz,bcereus,1446,33,126,13,19,29,17,10,
+GCF_000399585.fna.gz,bcereus,new_alleles,109,18,120,24,~311,30,173,
+GCF_000399605.fna.gz,bcereus,1346,109,18,120,24,31,30,175,
+GCF_000399625.fna.gz,bcereus,978,81,53,117,193,113,93,80,
+GCF_000399645.fna.gz,bcereus,946,81,53,117,71,209,93,80,
+GCF_000412315.fna.gz,bcereus,972,83,26,35,42,39,41,30,ST-111 complex
+GCF_000412975.fna.gz,bcereus,2387,15,20,145,8,4,281,21,
+GCF_000440035.fna.gz,bcereus,975,19,2,21,5,114,3,2,ST-205 complex
+GCF_000440055.fna.gz,bcereus,975,19,2,21,5,114,3,2,ST-205 complex
+GCF_000518025.fna.gz,bcereus,1099,227,8,241,11,9,12,10,ST-142 complex
+GCF_000520915.fna.gz,bcereus,new_alleles,~241,8,8,10,8,17,17,
+GCF_000635895.fna.gz,bcereus,1001,46,9,14,12,206,14,7,ST-18 complex
+GCF_000688755.fna.gz,bcereus,78,24,22,33,37,34,38,5,
+GCF_000743195.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_000743815.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_000743865.fna.gz,bcereus,164,3,2,63,5,36,3,4,
+GCF_000746865.fna.gz,bcereus,38,24,12,50,21,23,31,19,
+GCF_000773635.fna.gz,bcereus,787,172,71,14,29,24,14,7,
+GCF_000789315.fna.gz,bcereus,78,24,22,33,37,34,38,5,
+GCF_000832385.fna.gz,bcereus,1263,34,1,124,16,18,33,89,ST-365 complex
+GCF_000832405.fna.gz,bcereus,11,34,1,32,1,33,37,24,ST-365 complex
+GCF_000832525.fna.gz,bcereus,2001,24,200,33,37,34,38,5,
+GCF_000832765.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_000832805.fna.gz,bcereus,78,24,22,33,37,34,38,5,
+GCF_000832845.fna.gz,bcereus,38,24,12,50,21,23,31,19,
+GCF_000832865.fna.gz,bcereus,62,38,1,32,1,18,33,24,ST-365 complex
+GCF_000833045.fna.gz,bcereus,908,115,124,119,116,119,108,88,
+GCF_000835185.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_000935235.fna.gz,bcereus,2080,14,8,146,343,2,17,7,
+GCF_000948345.fna.gz,bcereus,750,22,9,211,18,20,19,7,
+GCF_000978375.fna.gz,bcereus,998,33,8,13,11,8,17,7,
+GCF_000987785.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_001008565.fna.gz,bcereus,2066,59,35,345,49,42,20,26,
+GCF_001008575.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001008585.fna.gz,bcereus,144,67,2,63,5,36,3,4,
+GCF_001008595.fna.gz,bcereus,2074,93,208,48,45,58,87,7,
+GCF_001008645.fna.gz,bcereus,1050,65,1,93,214,51,37,166,
+GCF_001008665.fna.gz,bcereus,15,9,8,16,13,2,16,9,ST-8 complex
+GCF_001008695.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001043655.fna.gz,bcereus,1481,13,8,9,11,9,12,8,ST-142 complex
+GCF_001044475.fna.gz,bcereus,185,51,14,21,5,19,3,2,ST-205 complex
+GCF_001044485.fna.gz,bcereus,1150,33,8,13,19,2,17,7,
+GCF_001044555.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_001044565.fna.gz,bcereus,2051,319,31,354,43,45,53,159,
+GCF_001044585.fna.gz,bcereus,1050,65,1,93,214,51,37,166,
+GCF_001044635.fna.gz,bcereus,1989,324,2,122,5,19,3,91,ST-205 complex
+GCF_001044645.fna.gz,bcereus,2111,11,8,14,11,292,36,7,
+GCF_001044655.fna.gz,bcereus,1979,33,8,13,19,2,120,17,
+GCF_001044665.fna.gz,bcereus,142,13,8,8,11,9,12,7,ST-142 complex
+GCF_001044715.fna.gz,bcereus,395,13,8,8,11,4,12,53,ST-142 complex
+GCF_001044735.fna.gz,bcereus,164,3,2,63,5,36,3,4,
+GCF_001044795.fna.gz,bcereus,1989,324,2,122,5,19,3,91,ST-205 complex
+GCF_001044815.fna.gz,bcereus,2038,330,41,66,48,42,61,280,
+GCF_001044825.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001044855.fna.gz,bcereus,15,9,8,16,13,2,16,9,ST-8 complex
+GCF_001044875.fna.gz,bcereus,2052,126,152,29,325,4,114,140,
+GCF_001044895.fna.gz,bcereus,164,3,2,63,5,36,3,4,
+GCF_001044905.fna.gz,bcereus,1986,48,30,295,61,44,31,51,
+GCF_001044955.fna.gz,bcereus,15,9,8,16,13,2,16,9,ST-8 complex
+GCF_001058585.fna.gz,bcereus,1083,96,8,36,30,41,17,185,
+GCF_001059175.fna.gz,bcereus,-,96,8,-,30,41,17,185,
+GCF_001059825.fna.gz,bcereus,1032,117,4,123,118,43,6,3,
+GCF_001059875.fna.gz,bcereus,1032,117,4,123,118,43,6,3,
+GCF_001077095.fna.gz,bcereus,-,96,8,-,30,41,17,185,
+GCF_001277915.fna.gz,bcereus,1590,41,6,170,8,242,7,21,
+GCF_001286825.fna.gz,bcereus,2108,65,199,1,1,1,37,42,
+GCF_001518875.fna.gz,bcereus,1946,13,8,9,81,9,12,7,ST-142 complex
+GCF_001541995.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_001566355.fna.gz,bcereus,996,6,4,42,4,16,6,181,
+GCF_001566365.fna.gz,bcereus,164,3,2,63,5,36,3,4,
+GCF_001566375.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001566385.fna.gz,bcereus,2056,19,2,21,348,19,3,91,ST-205 complex
+GCF_001566445.fna.gz,bcereus,144,67,2,63,5,36,3,4,
+GCF_001566455.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001566465.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001566515.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001566525.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001566705.fna.gz,bcereus,29,20,8,8,35,8,17,17,
+GCF_001579695.fna.gz,bcereus,1025,14,8,8,30,9,62,10,
+GCF_001583685.fna.gz,bcereus,1087,15,6,23,235,4,8,39,ST-97 complex
+GCF_001583705.fna.gz,bcereus,1084,19,2,239,5,19,3,2,ST-205 complex
+GCF_001583745.fna.gz,bcereus,1083,96,8,36,30,41,17,185,
+GCF_001583755.fna.gz,bcereus,111,43,26,35,42,39,41,30,ST-111 complex
+GCF_001583765.fna.gz,bcereus,1032,117,4,123,118,43,6,3,
+GCF_001583805.fna.gz,bcereus,1050,65,1,93,214,51,37,166,
+GCF_001583845.fna.gz,bcereus,787,172,71,14,29,24,14,7,
+GCF_001583855.fna.gz,bcereus,365,34,1,32,1,18,33,24,ST-365 complex
+GCF_001583865.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_001583875.fna.gz,bcereus,1089,40,28,14,26,2,25,7,
+GCF_001583925.fna.gz,bcereus,1086,24,138,33,37,218,38,5,
+GCF_001583935.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_001583955.fna.gz,bcereus,1090,144,10,22,36,158,129,11,
+GCF_001583975.fna.gz,bcereus,1085,74,137,85,62,66,66,186,
+GCF_001584005.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_001584025.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_001584065.fna.gz,bcereus,667,8,10,79,53,22,129,11,
+GCF_001584095.fna.gz,bcereus,1032,117,4,123,118,43,6,3,
+GCF_001584105.fna.gz,bcereus,1082,34,1,238,1,18,33,24,ST-365 complex
+GCF_001604665.fna.gz,bcereus,1976,6,4,42,37,44,6,16,
+GCF_001619285.fna.gz,bcereus,1967,14,8,43,11,9,47,8,
+GCF_001619335.fna.gz,bcereus,1975,18,10,174,36,17,70,11,
+GCF_001619355.fna.gz,bcereus,992,201,36,233,56,53,178,174,
+GCF_001619385.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001619395.fna.gz,bcereus,999,13,8,8,11,11,12,10,ST-142 complex
+GCF_001619405.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_001619425.fna.gz,bcereus,1766,229,5,271,240,281,183,190,
+GCF_001619445.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_001619465.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_001619525.fna.gz,bcereus,29,20,8,8,35,8,17,17,
+GCF_001635915.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_001635955.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_001635995.fna.gz,bcereus,1688,288,141,26,30,9,28,10,
+GCF_001677965.fna.gz,bcereus,2076,12,17,371,332,24,35,7,
+GCF_001678165.fna.gz,bcereus,206,93,6,29,91,4,82,39,
+GCF_001683695.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_001683705.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_001699805.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_001719025.fna.gz,bcereus,1084,19,2,239,5,19,3,2,ST-205 complex
+GCF_001721145.fna.gz,bcereus,142,13,8,8,11,9,12,7,ST-142 complex
+GCF_001729295.fna.gz,bcereus,139,50,8,14,12,12,36,7,ST-18 complex
+GCF_001729445.fna.gz,bcereus,-,33,8,-,19,2,17,17,
+GCF_001880305.fna.gz,bcereus,463,24,22,33,37,48,31,19,
+GCF_001883865.fna.gz,bcereus,34,33,8,13,19,2,17,17,
+GCF_001883965.fna.gz,bcereus,758,12,8,43,28,9,12,23,
+GCF_001883975.fna.gz,bcereus,766,13,8,9,201,9,12,23,ST-142 complex
+GCF_001895235.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_001901235.fna.gz,bcereus,1983,79,52,296,70,55,37,24,
+GCF_001901245.fna.gz,bcereus,377,112,70,114,110,116,105,32,
+GCF_001901305.fna.gz,bcereus,377,112,70,114,110,116,105,32,
+GCF_001901815.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_001901885.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_001901895.fna.gz,bcereus,32,5,4,3,4,15,6,16,
+GCF_001901905.fna.gz,bcereus,127,6,4,53,4,16,6,3,
+GCF_001901925.fna.gz,bcereus,1533,24,22,246,21,23,31,19,
+GCF_001909175.fna.gz,bcereus,2073,13,8,261,11,295,12,10,ST-142 complex
+GCF_001913295.fna.gz,bcereus,2087,19,14,21,5,19,3,272,ST-205 complex
+GCF_001913305.fna.gz,bcereus,2092,321,2,368,5,19,3,84,ST-205 complex
+GCF_001913315.fna.gz,bcereus,1994,48,30,295,37,44,31,198,
+GCF_001913325.fna.gz,bcereus,2082,19,2,31,349,284,245,2,
+GCF_001913375.fna.gz,bcereus,2099,24,12,33,205,288,31,19,
+GCF_001913385.fna.gz,bcereus,2098,55,192,292,37,333,31,41,
+GCF_001913395.fna.gz,bcereus,2059,55,72,374,37,49,31,41,
+GCF_001913405.fna.gz,bcereus,1966,180,8,48,180,58,87,7,
+GCF_001913455.fna.gz,bcereus,13,10,8,15,12,2,16,7,ST-8 complex
+GCF_001913465.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_001913475.fna.gz,bcereus,1951,37,9,18,18,24,21,7,
+GCF_001913485.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_001913535.fna.gz,bcereus,1943,19,2,31,5,19,3,2,ST-205 complex
+GCF_001913545.fna.gz,bcereus,120,6,4,3,4,46,6,36,
+GCF_001913555.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_001913575.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_001913615.fna.gz,bcereus,2082,19,2,31,349,284,245,2,
+GCF_001913625.fna.gz,bcereus,1949,33,8,44,19,2,17,7,
+GCF_001913635.fna.gz,bcereus,2091,14,8,8,337,4,12,86,
+GCF_001913645.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_001936485.fna.gz,bcereus,2094,24,1,358,1,303,37,41,
+GCF_001940365.fna.gz,bcereus,2068,336,6,391,354,4,7,21,
+GCF_001941885.fna.gz,bcereus,2094,24,1,358,1,303,37,41,
+GCF_001941905.fna.gz,bcereus,2094,24,1,358,1,303,37,41,
+GCF_001941925.fna.gz,bcereus,2094,24,1,358,1,303,37,41,
+GCF_001982805.fna.gz,bcereus,2085,3,2,372,17,19,3,2,ST-205 complex
+GCF_001982815.fna.gz,bcereus,1065,3,2,31,5,19,3,2,ST-205 complex
+GCF_001982845.fna.gz,bcereus,2060,344,2,93,347,318,37,33,
+GCF_001982855.fna.gz,bcereus,2078,33,8,146,260,291,17,7,
+GCF_001982885.fna.gz,bcereus,869,19,2,59,5,19,3,2,ST-205 complex
+GCF_001982895.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_001982925.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_001982935.fna.gz,bcereus,1667,53,2,59,5,47,3,216,
+GCF_002000005.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_002003645.fna.gz,bcereus,104,24,12,33,37,48,31,19,
+GCF_002007005.fna.gz,bcereus,78,24,22,33,37,34,38,5,
+GCF_002014485.fna.gz,bcereus,1095,108,139,104,69,221,92,79,
+GCF_002014575.fna.gz,bcereus,1092,82,51,104,237,163,92,188,
+GCF_002014585.fna.gz,bcereus,1142,18,10,174,36,17,22,11,ST-196 complex
+GCF_002014665.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_002014705.fna.gz,bcereus,1968,13,8,9,28,4,12,10,
+GCF_002014895.fna.gz,bcereus,1099,227,8,241,11,9,12,10,ST-142 complex
+GCF_002021335.fna.gz,bcereus,2082,19,2,31,349,284,245,2,
+GCF_002021355.fna.gz,bcereus,2067,44,1,238,327,18,33,24,ST-365 complex
+GCF_002021365.fna.gz,bcereus,1993,337,1,238,254,241,195,197,
+GCF_002021375.fna.gz,bcereus,1985,342,1,83,1,55,37,43,
+GCF_002021385.fna.gz,bcereus,76,34,15,28,38,30,29,33,
+GCF_002021435.fna.gz,bcereus,1009,16,6,170,9,4,7,21,
+GCF_002021445.fna.gz,bcereus,2071,12,17,33,332,24,35,10,
+GCF_002021455.fna.gz,bcereus,2072,12,17,401,332,2,35,10,
+GCF_002021465.fna.gz,bcereus,176,13,8,8,11,9,12,53,ST-142 complex
+GCF_002021515.fna.gz,bcereus,1982,14,8,9,28,4,88,23,
+GCF_002021535.fna.gz,bcereus,1972,14,8,9,30,9,62,10,
+GCF_002021545.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_002021695.fna.gz,bcereus,1263,34,1,124,16,18,33,89,ST-365 complex
+GCF_002024535.fna.gz,bcereus,1465,122,8,8,14,9,12,10,ST-142 complex
+GCF_002078195.fna.gz,bcereus,265,15,7,7,2,93,8,13,ST-23 complex
+GCF_002117465.fna.gz,bcereus,78,24,22,33,37,34,38,5,
+GCF_002196815.fna.gz,bcereus,2089,137,82,150,326,141,123,105,
+GCF_002199125.fna.gz,bcereus,2103,46,71,14,331,24,14,7,
+GCF_002199155.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199165.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199185.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199205.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199225.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199265.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199275.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199285.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199315.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199335.fna.gz,bcereus,1317,13,8,68,30,9,62,10,
+GCF_002199345.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199365.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199405.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199425.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199445.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199465.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199475.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199485.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199505.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199525.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199555.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199565.fna.gz,bcereus,1950,33,8,9,19,29,17,7,
+GCF_002199615.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_002199625.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_002199635.fna.gz,bcereus,1985,342,1,83,1,55,37,43,
+GCF_002199645.fna.gz,bcereus,2090,197,117,373,204,191,172,100,
+GCF_002199675.fna.gz,bcereus,1988,3,23,132,116,38,37,90,
+GCF_002199695.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199705.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199745.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199755.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199765.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199805.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199815.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199825.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199845.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199875.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199895.fna.gz,bcereus,1295,6,4,270,5,43,6,3,
+GCF_002199905.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199945.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199955.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002199975.fna.gz,bcereus,2050,113,204,231,43,45,53,159,
+GCF_002200015.fna.gz,bcereus,2102,341,8,395,11,297,35,7,
+GCF_002200055.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_002200075.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002200085.fna.gz,bcereus,1259,14,8,9,11,9,88,8,
+GCF_002200125.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002200145.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002200175.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_002200185.fna.gz,bcereus,2044,92,66,101,77,319,83,269,
+GCF_002201555.fna.gz,bcereus,363,13,8,9,107,9,12,81,ST-142 complex
+GCF_002201605.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002201645.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002201665.fna.gz,bcereus,1970,12,8,9,11,11,12,10,
+GCF_002201685.fna.gz,bcereus,266,3,2,21,17,36,3,4,
+GCF_002201705.fna.gz,bcereus,2093,55,72,33,37,49,241,41,
+GCF_002214705.fna.gz,bcereus,1977,241,8,36,10,41,17,17,
+GCF_002214725.fna.gz,bcereus,127,6,4,53,4,16,6,3,
+GCF_002214765.fna.gz,bcereus,1246,33,8,146,19,2,17,7,
+GCF_002215175.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002216125.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_002220285.fna.gz,bcereus,1981,93,6,29,9,4,39,21,
+GCF_002224345.fna.gz,bcereus,-,14,8,9,96,9,88,-,
+GCF_002290105.fna.gz,bcereus,2057,320,14,367,5,19,3,55,
+GCF_002343945.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002504205.fna.gz,bcereus,1000,13,8,8,58,122,12,7,ST-142 complex
+GCF_002530555.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530565.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530575.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530625.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530635.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530775.fna.gz,bcereus,1989,324,2,122,5,19,3,91,ST-205 complex
+GCF_002530785.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002530795.fna.gz,bcereus,2044,92,66,101,77,319,83,269,
+GCF_002550115.fna.gz,bcereus,1978,33,8,13,19,60,17,17,
+GCF_002550135.fna.gz,bcereus,2055,213,181,223,322,118,107,128,
+GCF_002550155.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002550265.fna.gz,bcereus,25,30,8,16,13,2,16,7,ST-8 complex
+GCF_002550315.fna.gz,bcereus,2075,40,8,166,26,308,36,7,
+GCF_002550365.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002550375.fna.gz,bcereus,610,146,85,157,144,143,130,115,
+GCF_002550435.fna.gz,bcereus,2061,332,193,351,341,322,250,32,
+GCF_002550515.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002550555.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002550595.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002550675.fna.gz,bcereus,2063,59,81,348,229,214,122,32,
+GCF_002550705.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002550775.fna.gz,bcereus,1948,287,8,14,11,2,17,7,
+GCF_002550815.fna.gz,bcereus,1992,215,116,223,170,207,144,172,
+GCF_002550835.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002550855.fna.gz,bcereus,723,158,78,193,169,164,143,103,
+GCF_002550895.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002551625.fna.gz,bcereus,2101,7,8,396,12,20,36,7,
+GCF_002551635.fna.gz,bcereus,2046,40,8,14,26,2,50,268,
+GCF_002551665.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_002551775.fna.gz,bcereus,2043,11,9,14,12,12,14,274,ST-18 complex
+GCF_002551855.fna.gz,bcereus,2025,68,54,346,2,248,84,13,
+GCF_002551935.fna.gz,bcereus,2053,202,116,187,306,118,171,128,
+GCF_002551975.fna.gz,bcereus,1579,10,8,16,12,2,16,7,ST-8 complex
+GCF_002552015.fna.gz,bcereus,119,47,8,49,12,2,36,7,
+GCF_002552045.fna.gz,bcereus,2088,276,159,305,308,282,228,229,
+GCF_002552115.fna.gz,bcereus,2100,314,8,400,26,292,36,7,
+GCF_002552195.fna.gz,bcereus,2064,332,193,353,344,322,250,26,
+GCF_002552275.fna.gz,bcereus,1960,40,28,15,44,2,36,7,
+GCF_002552295.fna.gz,bcereus,2070,17,5,356,357,223,248,12,
+GCF_002552315.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002552335.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002552455.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002552465.fna.gz,bcereus,1952,11,8,14,12,2,25,7,ST-18 complex
+GCF_002552485.fna.gz,bcereus,1947,11,9,14,12,24,14,7,ST-18 complex
+GCF_002552505.fna.gz,bcereus,1964,40,8,15,26,138,50,7,
+GCF_002552635.fna.gz,bcereus,137,37,28,14,12,37,36,7,
+GCF_002552725.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002552745.fna.gz,bcereus,2037,312,116,223,309,118,171,281,
+GCF_002552805.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002552875.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002552895.fna.gz,bcereus,1961,40,28,49,44,2,36,7,
+GCF_002552995.fna.gz,bcereus,2042,37,9,14,12,24,14,274,ST-18 complex
+GCF_002553095.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002553185.fna.gz,bcereus,2058,347,138,33,37,298,242,47,
+GCF_002553235.fna.gz,bcereus,2047,322,2,21,5,114,3,266,ST-205 complex
+GCF_002553255.fna.gz,bcereus,225,11,9,14,95,12,14,7,ST-18 complex
+GCF_002553345.fna.gz,bcereus,2077,345,8,166,361,290,25,7,
+GCF_002553395.fna.gz,bcereus,1952,11,8,14,12,2,25,7,ST-18 complex
+GCF_002555205.fna.gz,bcereus,509,126,6,133,46,4,114,37,
+GCF_002556855.fna.gz,bcereus,new_alleles,14,144,~170,9,224,7,15,
+GCF_002557925.fna.gz,bcereus,new_ST,40,8,49,44,2,25,7,
+GCF_002557945.fna.gz,bcereus,2049,59,133,149,229,328,122,179,
+GCF_002557995.fna.gz,bcereus,new_ST,13,8,8,195,9,12,7,
+GCF_002558085.fna.gz,bcereus,new_alleles,40,8,49,44,2,~25,7,
+GCF_002558125.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002558165.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002558205.fna.gz,bcereus,new_ST,74,22,118,62,66,66,244,
+GCF_002558245.fna.gz,bcereus,100,13,8,46,28,9,12,7,ST-142 complex
+GCF_002558275.fna.gz,bcereus,new_ST,213,116,223,225,118,107,128,
+GCF_002558285.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002558315.fna.gz,bcereus,new_alleles,17,5,311,3,223,212,~12,
+GCF_002558365.fna.gz,bcereus,new_ST,47,8,15,12,37,50,7,
+GCF_002558375.fna.gz,bcereus,new_ST,31,9,14,95,12,14,7,
+GCF_002558435.fna.gz,bcereus,1579,10,8,16,12,2,16,7,ST-8 complex
+GCF_002558445.fna.gz,bcereus,new_ST,272,9,14,26,138,36,7,
+GCF_002558465.fna.gz,bcereus,new_alleles,~40,28,14,44,292,36,7,
+GCF_002558475.fna.gz,bcereus,new_ST,172,28,14,12,37,50,142,
+GCF_002558515.fna.gz,bcereus,new_alleles,59,81,~75,229,214,~122,32,
+GCF_002558615.fna.gz,bcereus,new_ST,33,8,13,19,60,17,104,
+GCF_002558645.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_002558665.fna.gz,bcereus,1947,11,9,14,12,24,14,7,ST-18 complex
+GCF_002558705.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002558735.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,~68,
+GCF_002558745.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002558765.fna.gz,bcereus,new_alleles,99,~8,14,26,~2,25,7,
+GCF_002558845.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002558875.fna.gz,bcereus,new_alleles,~213,116,187,202,118,107,128,
+GCF_002558885.fna.gz,bcereus,new_alleles,202,~116,~223,202,118,171,128,
+GCF_002558955.fna.gz,bcereus,480,129,77,138,129,134,118,101,
+GCF_002558975.fna.gz,bcereus,new_alleles,202,~116,~223,202,118,171,128,
+GCF_002558985.fna.gz,bcereus,new_ST,91,8,49,44,2,25,7,
+GCF_002559035.fna.gz,bcereus,787,172,71,14,29,24,14,7,
+GCF_002559045.fna.gz,bcereus,new_ST,215,116,223,170,207,144,49,
+GCF_002559055.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002559065.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002559115.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002559125.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002559135.fna.gz,bcereus,2025,68,54,346,2,248,84,13,
+GCF_002559195.fna.gz,bcereus,new_alleles,213,116,~223,322,336,107,~128,
+GCF_002559205.fna.gz,bcereus,137,37,28,14,12,37,36,7,
+GCF_002559215.fna.gz,bcereus,new_alleles,137,82,150,138,~141,~123,105,
+GCF_002559225.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002559275.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002559355.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002559365.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002559425.fna.gz,bcereus,2532,40,8,49,44,2,36,7,
+GCF_002559435.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002559495.fna.gz,bcereus,new_alleles,99,~8,14,26,~2,25,7,
+GCF_002559505.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002559545.fna.gz,bcereus,new_ST,47,28,14,12,37,36,144,
+GCF_002559565.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002559595.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002559645.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002559665.fna.gz,bcereus,new_alleles,~305,~213,~312,335,~314,~233,277,
+GCF_002559685.fna.gz,bcereus,new_ST,314,9,400,26,292,36,7,
+GCF_002559715.fna.gz,bcereus,new_ST,272,9,14,26,138,36,7,
+GCF_002559735.fna.gz,bcereus,new_ST,47,28,14,12,37,36,144,
+GCF_002559765.fna.gz,bcereus,new_ST,37,28,14,26,2,36,7,
+GCF_002559805.fna.gz,bcereus,new_ST,17,5,356,357,223,154,12,
+GCF_002559865.fna.gz,bcereus,new_alleles,215,116,281,36,~207,144,172,
+GCF_002559915.fna.gz,bcereus,new_alleles,~40,28,14,44,292,36,7,
+GCF_002559935.fna.gz,bcereus,new_alleles,~266,68,294,~382,42,~206,~127,
+GCF_002559945.fna.gz,bcereus,new_ST,47,28,14,12,37,36,144,
+GCF_002559985.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002560035.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,7,
+GCF_002560075.fna.gz,bcereus,new_ST,40,8,14,12,2,36,7,
+GCF_002560095.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002560105.fna.gz,bcereus,1961,40,28,49,44,2,36,7,
+GCF_002560115.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002560145.fna.gz,bcereus,new_ST,17,5,311,357,223,212,12,
+GCF_002560175.fna.gz,bcereus,new_ST,47,8,88,12,2,36,7,
+GCF_002560215.fna.gz,bcereus,new_alleles,~227,9,14,12,12,14,7,
+GCF_002560225.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002560255.fna.gz,bcereus,1961,40,28,49,44,2,36,7,
+GCF_002560265.fna.gz,bcereus,1216,46,28,14,248,2,50,7,
+GCF_002560295.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002560325.fna.gz,bcereus,new_alleles,~266,68,294,~382,42,~206,~127,
+GCF_002560375.fna.gz,bcereus,new_alleles,~280,~163,411,207,~238,~197,~162,
+GCF_002560385.fna.gz,bcereus,new_alleles,~180,8,14,26,2,50,7,
+GCF_002560395.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002560415.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002560475.fna.gz,bcereus,new_ST,17,5,356,357,223,212,12,
+GCF_002560525.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002560615.fna.gz,bcereus,new_alleles,222,36,~86,~231,54,179,32,
+GCF_002560715.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002560735.fna.gz,bcereus,new_alleles,332,193,351,341,322,250,~32,
+GCF_002560775.fna.gz,bcereus,new_ST,215,116,223,36,207,144,172,
+GCF_002560795.fna.gz,bcereus,new_ST,215,116,223,170,207,144,49,
+GCF_002560915.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002560945.fna.gz,bcereus,new_alleles,213,116,~223,322,336,107,~128,
+GCF_002560955.fna.gz,bcereus,119,47,8,49,12,2,36,7,
+GCF_002561035.fna.gz,bcereus,new_alleles,40,~8,14,26,2,25,7,
+GCF_002561095.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002561115.fna.gz,bcereus,new_ST,47,28,49,12,308,36,7,
+GCF_002561135.fna.gz,bcereus,new_ST,47,28,14,12,37,36,144,
+GCF_002561205.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002561235.fna.gz,bcereus,new_ST,215,116,223,36,207,144,172,
+GCF_002561255.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002561265.fna.gz,bcereus,610,146,85,157,144,143,130,115,
+GCF_002561295.fna.gz,bcereus,new_alleles,142,83,~247,141,~321,125,106,
+GCF_002561355.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002561385.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002561535.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002561565.fna.gz,bcereus,new_alleles,~266,~68,294,~382,42,~206,~127,
+GCF_002561575.fna.gz,bcereus,new_ST,40,8,14,13,2,50,144,
+GCF_002561635.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002561655.fna.gz,bcereus,new_ST,40,8,49,44,2,25,7,
+GCF_002561715.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002561725.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002561745.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002561805.fna.gz,bcereus,new_ST,40,8,49,44,2,25,7,
+GCF_002561885.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002561915.fna.gz,bcereus,new_ST,215,116,223,170,207,144,49,
+GCF_002561925.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002561945.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002561965.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002561985.fna.gz,bcereus,new_ST,17,5,311,3,223,212,12,
+GCF_002562015.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002562085.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002562115.fna.gz,bcereus,new_ST,219,78,252,169,164,143,103,
+GCF_002562125.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002562145.fna.gz,bcereus,1992,215,116,223,170,207,144,172,
+GCF_002562165.fna.gz,bcereus,new_ST,47,28,14,26,86,25,7,
+GCF_002562215.fna.gz,bcereus,1150,33,8,13,19,2,17,7,
+GCF_002562255.fna.gz,bcereus,new_alleles,81,53,117,~193,113,93,145,
+GCF_002562265.fna.gz,bcereus,119,47,8,49,12,2,36,7,
+GCF_002562285.fna.gz,bcereus,959,37,9,14,18,20,14,7,ST-18 complex
+GCF_002562335.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002562345.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002562355.fna.gz,bcereus,new_ST,59,36,251,233,53,56,148,
+GCF_002562365.fna.gz,bcereus,new_alleles,~46,9,14,12,24,14,7,
+GCF_002562445.fna.gz,bcereus,932,202,116,223,174,205,171,128,
+GCF_002562465.fna.gz,bcereus,new_alleles,213,116,223,322,336,107,~128,
+GCF_002562495.fna.gz,bcereus,new_ST,272,9,14,12,138,36,7,
+GCF_002562505.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002562555.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,7,
+GCF_002562575.fna.gz,bcereus,new_alleles,40,8,14,~12,~97,36,7,
+GCF_002562585.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002562595.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002562625.fna.gz,bcereus,new_ST,17,5,311,3,223,212,12,
+GCF_002562645.fna.gz,bcereus,new_alleles,~213,116,223,223,118,107,128,
+GCF_002562695.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002562715.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002562725.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002562735.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002562775.fna.gz,bcereus,new_alleles,~129,~78,~179,~169,~282,~143,103,
+GCF_002562795.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002562925.fna.gz,bcereus,new_ST,40,8,14,329,20,50,7,
+GCF_002562955.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002562985.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002563005.fna.gz,bcereus,946,81,53,117,71,209,93,80,
+GCF_002563025.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002563075.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002563095.fna.gz,bcereus,new_ST,24,138,33,55,298,38,5,
+GCF_002563125.fna.gz,bcereus,new_ST,40,8,14,26,2,50,7,
+GCF_002563195.fna.gz,bcereus,new_alleles,202,~116,~223,202,118,171,128,
+GCF_002563225.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002563235.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002564345.fna.gz,bcereus,2053,202,116,187,306,118,171,128,
+GCF_002564355.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002564375.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002564415.fna.gz,bcereus,2037,312,116,223,309,118,171,281,
+GCF_002564425.fna.gz,bcereus,new_alleles,~180,8,14,26,2,50,7,
+GCF_002564555.fna.gz,bcereus,705,158,78,186,169,164,143,103,
+GCF_002564585.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002564605.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002564625.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002564655.fna.gz,bcereus,new_ST,213,116,223,306,118,107,128,
+GCF_002564675.fna.gz,bcereus,new_ST,213,116,223,322,118,107,128,
+GCF_002564695.fna.gz,bcereus,new_ST,40,8,14,12,2,36,7,
+GCF_002564745.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002564775.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002564805.fna.gz,bcereus,new_ST,40,8,14,329,20,50,7,
+GCF_002564815.fna.gz,bcereus,new_alleles,~64,116,~174,~174,~76,~171,~307,
+GCF_002564835.fna.gz,bcereus,new_alleles,37,28,14,12,~292,36,7,
+GCF_002564865.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002564885.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002564915.fna.gz,bcereus,new_alleles,~213,116,223,223,118,107,128,
+GCF_002564945.fna.gz,bcereus,new_alleles,~275,~118,~273,207,346,~197,307,
+GCF_002564965.fna.gz,bcereus,2037,312,116,223,309,118,171,281,
+GCF_002565005.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002565025.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002565035.fna.gz,bcereus,746,81,53,117,193,113,93,145,
+GCF_002565055.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_002565115.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002565175.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002565225.fna.gz,bcereus,new_alleles,40,8,147,~44,2,36,7,
+GCF_002565235.fna.gz,bcereus,978,81,53,117,193,113,93,80,
+GCF_002565245.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002565305.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002565315.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002565345.fna.gz,bcereus,new_alleles,213,181,223,322,118,107,~128,
+GCF_002565405.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002565425.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002565455.fna.gz,bcereus,new_alleles,305,214,~247,342,321,272,271,
+GCF_002565465.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002565505.fna.gz,bcereus,new_ST,40,8,14,12,2,36,7,
+GCF_002565525.fna.gz,bcereus,new_ST,20,8,146,19,341,17,17,
+GCF_002565565.fna.gz,bcereus,new_ST,272,9,14,44,2,36,7,
+GCF_002565575.fna.gz,bcereus,new_alleles,47,8,~14,26,2,36,7,
+GCF_002565605.fna.gz,bcereus,new_alleles,~266,68,81,~382,42,~206,~127,
+GCF_002565615.fna.gz,bcereus,new_ST,47,28,49,12,308,36,7,
+GCF_002565645.fna.gz,bcereus,new_ST,7,8,14,12,2,50,7,
+GCF_002565655.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002565685.fna.gz,bcereus,new_ST,37,28,14,26,2,36,7,
+GCF_002565695.fna.gz,bcereus,610,146,85,157,144,143,130,115,
+GCF_002565725.fna.gz,bcereus,new_alleles,226,31,~202,43,219,49,37,
+GCF_002565735.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002565765.fna.gz,bcereus,new_alleles,17,~5,311,3,223,248,12,
+GCF_002565775.fna.gz,bcereus,-,141,83,~247,141,~321,-,106,
+GCF_002565795.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002565815.fna.gz,bcereus,new_alleles,~129,78,~179,~169,~282,~143,103,
+GCF_002565865.fna.gz,bcereus,new_alleles,40,8,14,12,~2,50,7,
+GCF_002565885.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002565895.fna.gz,bcereus,932,202,116,223,174,205,171,128,
+GCF_002565955.fna.gz,bcereus,new_alleles,202,~116,~223,202,118,171,128,
+GCF_002565965.fna.gz,bcereus,new_alleles,215,116,223,36,207,144,~172,
+GCF_002566005.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002566045.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002566105.fna.gz,bcereus,new_alleles,215,116,281,~36,207,144,172,
+GCF_002566115.fna.gz,bcereus,-,~289,~163,-,~287,~269,~223,~162,
+GCF_002566185.fna.gz,bcereus,new_ST,314,9,400,26,292,36,7,
+GCF_002566205.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002566215.fna.gz,bcereus,new_alleles,13,8,8,7,9,12,~7,
+GCF_002566225.fna.gz,bcereus,new_alleles,~40,28,14,44,292,36,7,
+GCF_002566255.fna.gz,bcereus,new_ST,17,5,311,357,223,248,12,
+GCF_002566365.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002566455.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002566525.fna.gz,bcereus,new_alleles,81,53,~117,232,113,93,80,
+GCF_002566535.fna.gz,bcereus,new_ST,17,5,356,3,223,248,12,
+GCF_002566595.fna.gz,bcereus,new_alleles,332,193,351,341,322,250,~32,
+GCF_002566605.fna.gz,bcereus,2081,335,9,399,12,24,14,7,ST-18 complex
+GCF_002566665.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002566675.fna.gz,bcereus,1962,37,28,14,26,86,36,7,
+GCF_002566705.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002566725.fna.gz,bcereus,new_ST,47,8,16,26,2,16,7,
+GCF_002566755.fna.gz,bcereus,new_ST,47,28,14,12,37,36,7,
+GCF_002566775.fna.gz,bcereus,501,7,8,14,26,138,50,7,
+GCF_002566795.fna.gz,bcereus,new_alleles,37,9,14,~12,2,25,7,
+GCF_002566825.fna.gz,bcereus,new_alleles,~66,193,~351,56,322,250,32,
+GCF_002566845.fna.gz,bcereus,new_alleles,141,83,~247,365,~321,125,106,
+GCF_002566855.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002566885.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002566895.fna.gz,bcereus,1958,125,9,14,26,2,36,7,
+GCF_002566925.fna.gz,bcereus,2035,338,8,396,329,20,36,7,
+GCF_002567015.fna.gz,bcereus,new_ST,314,9,400,26,292,36,7,
+GCF_002567065.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002567125.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002567135.fna.gz,bcereus,new_ST,17,5,311,357,223,212,12,
+GCF_002567145.fna.gz,bcereus,new_ST,40,8,14,26,138,50,268,
+GCF_002567185.fna.gz,bcereus,480,129,77,138,129,134,118,101,
+GCF_002567215.fna.gz,bcereus,new_alleles,~213,116,223,223,118,107,128,
+GCF_002567225.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002567275.fna.gz,bcereus,new_alleles,~66,193,351,56,~322,250,32,
+GCF_002567325.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002567335.fna.gz,bcereus,new_ST,215,116,223,36,207,144,172,
+GCF_002567355.fna.gz,bcereus,new_ST,7,8,14,26,2,50,7,
+GCF_002567375.fna.gz,bcereus,new_alleles,40,8,15,44,2,~25,7,
+GCF_002567405.fna.gz,bcereus,new_ST,40,8,14,329,20,50,7,
+GCF_002567415.fna.gz,bcereus,new_ST,125,8,14,26,138,50,7,
+GCF_002567445.fna.gz,bcereus,new_alleles,~47,8,14,12,2,36,7,
+GCF_002567465.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002567475.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002567495.fna.gz,bcereus,2086,340,206,387,353,287,254,263,
+GCF_002567525.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002567535.fna.gz,bcereus,new_ST,91,8,49,44,2,25,7,
+GCF_002567555.fna.gz,bcereus,395,13,8,8,11,4,12,53,ST-142 complex
+GCF_002567595.fna.gz,bcereus,new_alleles,215,116,223,~306,207,144,172,
+GCF_002567605.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,7,
+GCF_002567665.fna.gz,bcereus,new_alleles,81,53,~117,193,113,93,80,
+GCF_002567675.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002567705.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002567725.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002567745.fna.gz,bcereus,new_ST,17,5,311,357,223,248,12,
+GCF_002567785.fna.gz,bcereus,-,142,83,~247,141,~321,-,296,
+GCF_002567795.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002567815.fna.gz,bcereus,new_alleles,31,9,~14,~12,2,36,7,
+GCF_002567835.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002567915.fna.gz,bcereus,new_alleles,37,28,14,12,~292,36,7,
+GCF_002567985.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002568015.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002568095.fna.gz,bcereus,new_ST,40,8,400,12,37,36,7,
+GCF_002568125.fna.gz,bcereus,new_alleles,99,8,~14,44,2,36,7,
+GCF_002568135.fna.gz,bcereus,new_ST,37,28,14,26,2,36,7,
+GCF_002568145.fna.gz,bcereus,new_ST,37,28,14,26,2,25,7,
+GCF_002568205.fna.gz,bcereus,new_alleles,312,116,~223,202,118,171,128,
+GCF_002568235.fna.gz,bcereus,2064,332,193,353,344,322,250,26,
+GCF_002568265.fna.gz,bcereus,new_ST,31,9,14,95,12,14,7,
+GCF_002568295.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002568365.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002568375.fna.gz,bcereus,new_alleles,40,8,14,~12,2,36,7,
+GCF_002568425.fna.gz,bcereus,new_ST,17,175,356,3,223,284,222,
+GCF_002568445.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002568455.fna.gz,bcereus,2146,91,207,14,18,20,19,7,
+GCF_002568465.fna.gz,bcereus,-,141,83,~247,141,~321,-,106,
+GCF_002568505.fna.gz,bcereus,new_ST,24,22,33,37,298,38,47,
+GCF_002568565.fna.gz,bcereus,new_ST,37,28,14,26,2,36,7,
+GCF_002569335.fna.gz,bcereus,new_alleles,126,152,133,285,~4,114,37,
+GCF_002570415.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,7,
+GCF_002570425.fna.gz,bcereus,new_alleles,99,8,49,26,2,50,~7,
+GCF_002570465.fna.gz,bcereus,122,53,2,59,17,47,3,2,
+GCF_002570485.fna.gz,bcereus,new_alleles,~64,116,~174,~174,~76,~171,~307,
+GCF_002570545.fna.gz,bcereus,new_ST,47,8,14,26,2,36,7,
+GCF_002570565.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002570665.fna.gz,bcereus,new_alleles,31,9,~14,12,~2,36,7,
+GCF_002570745.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002570795.fna.gz,bcereus,168,47,28,72,26,2,65,7,
+GCF_002570845.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002570875.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002570945.fna.gz,bcereus,new_alleles,346,8,~49,12,2,36,7,
+GCF_002570965.fna.gz,bcereus,new_ST,17,5,311,3,223,212,12,
+GCF_002570985.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002571035.fna.gz,bcereus,2055,213,181,223,322,118,107,128,
+GCF_002571085.fna.gz,bcereus,74,42,27,37,41,40,42,32,
+GCF_002571165.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002571185.fna.gz,bcereus,1947,11,9,14,12,24,14,7,ST-18 complex
+GCF_002571195.fna.gz,bcereus,new_ST,17,5,356,357,223,212,12,
+GCF_002571255.fna.gz,bcereus,1960,40,28,15,44,2,36,7,
+GCF_002571855.fna.gz,bcereus,119,47,8,49,12,2,36,7,
+GCF_002574175.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002574205.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002574255.fna.gz,bcereus,new_ST,17,5,311,357,223,212,12,
+GCF_002574285.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002574345.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002574395.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002574405.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002574415.fna.gz,bcereus,new_ST,272,8,14,26,138,50,7,
+GCF_002574515.fna.gz,bcereus,new_alleles,99,~8,14,26,~2,25,7,
+GCF_002574615.fna.gz,bcereus,new_ST,314,9,400,26,292,36,7,
+GCF_002574635.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002574715.fna.gz,bcereus,1959,40,8,166,26,2,36,7,
+GCF_002574855.fna.gz,bcereus,new_alleles,172,~28,14,12,37,50,142,
+GCF_002574875.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002574885.fna.gz,bcereus,new_alleles,215,116,281,~170,207,144,49,
+GCF_002574955.fna.gz,bcereus,610,146,85,157,144,143,130,115,
+GCF_002574975.fna.gz,bcereus,new_ST,37,28,14,26,2,25,7,
+GCF_002575055.fna.gz,bcereus,new_ST,215,116,281,170,207,144,49,
+GCF_002575085.fna.gz,bcereus,new_alleles,~280,~163,411,207,~238,~197,~162,
+GCF_002575135.fna.gz,bcereus,new_ST,13,8,8,195,9,12,7,
+GCF_002575155.fna.gz,bcereus,new_ST,47,8,14,26,2,36,7,
+GCF_002575175.fna.gz,bcereus,new_ST,7,8,14,329,20,36,7,
+GCF_002575205.fna.gz,bcereus,new_alleles,~189,177,~303,~53,~275,~202,~128,
+GCF_002575215.fna.gz,bcereus,23,15,7,7,2,5,8,13,ST-23 complex
+GCF_002575245.fna.gz,bcereus,new_ST,213,116,223,322,118,107,128,
+GCF_002575275.fna.gz,bcereus,new_ST,47,8,14,26,2,36,7,
+GCF_002575355.fna.gz,bcereus,new_ST,40,8,14,26,2,50,7,
+GCF_002575405.fna.gz,bcereus,new_ST,272,9,14,26,2,36,7,
+GCF_002575435.fna.gz,bcereus,new_alleles,213,~116,223,223,118,107,128,
+GCF_002575495.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002575505.fna.gz,bcereus,1956,315,28,14,12,2,36,7,
+GCF_002575515.fna.gz,bcereus,2042,37,9,14,12,24,14,274,ST-18 complex
+GCF_002575555.fna.gz,bcereus,new_ST,215,116,223,170,207,144,49,
+GCF_002575565.fna.gz,bcereus,new_ST,40,8,14,26,2,50,7,
+GCF_002575595.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002575635.fna.gz,bcereus,1150,33,8,13,19,2,17,7,
+GCF_002575715.fna.gz,bcereus,1188,20,8,262,11,227,15,10,
+GCF_002575765.fna.gz,bcereus,new_ST,40,8,14,12,2,36,7,
+GCF_002575795.fna.gz,bcereus,new_ST,125,8,14,26,138,50,7,
+GCF_002575815.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002575835.fna.gz,bcereus,new_alleles,40,8,14,~12,2,36,7,
+GCF_002575855.fna.gz,bcereus,new_ST,215,116,223,36,207,144,172,
+GCF_002575935.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002575955.fna.gz,bcereus,new_alleles,213,116,~223,322,336,107,~128,
+GCF_002575965.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002576005.fna.gz,bcereus,new_ST,40,8,49,44,2,25,7,
+GCF_002576045.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002576065.fna.gz,bcereus,610,146,85,157,144,143,130,115,
+GCF_002576095.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002576155.fna.gz,bcereus,25,30,8,16,13,2,16,7,ST-8 complex
+GCF_002576165.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002576185.fna.gz,bcereus,1958,125,9,14,26,2,36,7,
+GCF_002576225.fna.gz,bcereus,new_alleles,47,8,~14,26,2,36,7,
+GCF_002576265.fna.gz,bcereus,new_ST,47,8,88,12,2,36,7,
+GCF_002576275.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002576345.fna.gz,bcereus,119,47,8,49,12,2,36,7,
+GCF_002576365.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002576395.fna.gz,bcereus,1319,40,8,166,26,2,36,208,
+GCF_002576445.fna.gz,bcereus,1958,125,9,14,26,2,36,7,
+GCF_002576465.fna.gz,bcereus,new_alleles,~47,8,49,12,2,36,7,
+GCF_002576535.fna.gz,bcereus,new_alleles,81,53,~117,232,113,93,80,
+GCF_002576575.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002576595.fna.gz,bcereus,new_alleles,~64,~115,~174,~174,~76,~171,~307,
+GCF_002576695.fna.gz,bcereus,new_ST,40,8,166,26,138,36,7,
+GCF_002576725.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002576745.fna.gz,bcereus,new_alleles,81,53,~117,193,113,93,80,
+GCF_002576795.fna.gz,bcereus,new_alleles,~275,~118,~273,207,346,~197,307,
+GCF_002576825.fna.gz,bcereus,new_alleles,346,8,~49,12,2,36,7,
+GCF_002576845.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002576865.fna.gz,bcereus,501,7,8,14,26,138,50,7,
+GCF_002576955.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002577085.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002577105.fna.gz,bcereus,2037,312,116,223,309,118,171,281,
+GCF_002577115.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002577125.fna.gz,bcereus,102,49,31,45,43,45,49,37,
+GCF_002577165.fna.gz,bcereus,new_alleles,332,193,351,56,322,250,~32,
+GCF_002577175.fna.gz,bcereus,new_alleles,346,8,~49,12,2,36,7,
+GCF_002577205.fna.gz,bcereus,new_alleles,99,~8,14,26,~2,25,7,
+GCF_002577245.fna.gz,bcereus,new_ST,91,9,76,18,20,35,7,
+GCF_002577285.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002577335.fna.gz,bcereus,new_ST,40,9,14,26,2,36,7,
+GCF_002577365.fna.gz,bcereus,new_alleles,~188,~132,~125,~73,~76,~202,79,
+GCF_002577375.fna.gz,bcereus,new_alleles,81,53,~117,193,113,93,80,
+GCF_002577405.fna.gz,bcereus,new_alleles,~137,77,138,131,134,118,102,
+GCF_002577415.fna.gz,bcereus,959,37,9,14,18,20,14,7,ST-18 complex
+GCF_002577455.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002577465.fna.gz,bcereus,1990,37,28,14,12,37,36,144,
+GCF_002577545.fna.gz,bcereus,2049,59,133,149,229,328,122,179,
+GCF_002577665.fna.gz,bcereus,746,81,53,117,193,113,93,145,
+GCF_002577705.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002577745.fna.gz,bcereus,new_alleles,137,82,150,138,~141,123,105,
+GCF_002577755.fna.gz,bcereus,2086,340,206,387,353,287,254,263,
+GCF_002577895.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002577915.fna.gz,bcereus,new_ST,215,116,223,36,207,144,49,
+GCF_002578045.fna.gz,bcereus,-,~289,~163,-,~287,~269,~223,~162,
+GCF_002578195.fna.gz,bcereus,1957,346,8,49,12,2,36,7,
+GCF_002578255.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002578325.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002578335.fna.gz,bcereus,new_ST,47,28,49,12,308,36,7,
+GCF_002578405.fna.gz,bcereus,1963,40,8,14,26,138,50,7,
+GCF_002578425.fna.gz,bcereus,new_alleles,~66,193,351,56,~322,250,32,
+GCF_002578475.fna.gz,bcereus,new_alleles,213,116,223,322,336,107,~128,
+GCF_002578485.fna.gz,bcereus,746,81,53,117,193,113,93,145,
+GCF_002578545.fna.gz,bcereus,new_ST,37,28,14,12,86,36,7,
+GCF_002578565.fna.gz,bcereus,new_ST,47,8,14,12,2,50,142,
+GCF_002578635.fna.gz,bcereus,new_alleles,346,8,~49,12,2,36,7,
+GCF_002579585.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_002582385.fna.gz,bcereus,new_alleles,47,28,14,26,2,~36,7,
+GCF_002582395.fna.gz,bcereus,1954,47,8,166,44,2,25,7,
+GCF_002582445.fna.gz,bcereus,new_ST,17,5,356,357,223,212,12,
+GCF_002582595.fna.gz,bcereus,new_alleles,274,115,227,200,~195,170,163,
+GCF_002582665.fna.gz,bcereus,1216,46,28,14,248,2,50,7,
+GCF_002582745.fna.gz,bcereus,934,213,116,223,223,118,107,128,
+GCF_002582825.fna.gz,bcereus,new_alleles,~266,68,294,~382,42,~206,~127,
+GCF_002582935.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,7,
+GCF_002582955.fna.gz,bcereus,2055,213,181,223,322,118,107,128,
+GCF_002582965.fna.gz,bcereus,new_alleles,37,9,14,~12,2,25,7,
+GCF_002583125.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002583275.fna.gz,bcereus,2055,213,181,223,322,118,107,128,
+GCF_002583305.fna.gz,bcereus,1949,33,8,44,19,2,17,7,
+GCF_002583515.fna.gz,bcereus,new_alleles,142,83,~247,141,~321,125,106,
+GCF_002583535.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002583705.fna.gz,bcereus,1576,40,8,15,44,2,25,7,
+GCF_002583755.fna.gz,bcereus,new_alleles,42,27,~37,41,~40,42,32,
+GCF_002584035.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002584065.fna.gz,bcereus,2049,59,133,149,229,328,122,179,
+GCF_002584075.fna.gz,bcereus,2048,17,5,311,3,223,212,261,
+GCF_002584305.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002584345.fna.gz,bcereus,138,37,9,14,12,12,14,7,ST-18 complex
+GCF_002584465.fna.gz,bcereus,2079,33,8,13,19,289,17,7,
+GCF_002584535.fna.gz,bcereus,new_alleles,299,184,375,~271,~264,~232,~217,
+GCF_002584675.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002584695.fna.gz,bcereus,2061,332,193,351,341,322,250,32,
+GCF_002584765.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002584775.fna.gz,bcereus,1958,125,9,14,26,2,36,7,
+GCF_002584845.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002585005.fna.gz,bcereus,1965,40,8,14,44,138,50,7,
+GCF_002585165.fna.gz,bcereus,744,37,28,14,12,37,157,144,
+GCF_002585385.fna.gz,bcereus,1955,99,28,14,12,37,25,7,
+GCF_002585495.fna.gz,bcereus,616,81,53,117,71,113,93,80,
+GCF_002585595.fna.gz,bcereus,506,40,8,147,44,2,36,7,
+GCF_002585665.fna.gz,bcereus,2040,40,8,14,44,86,36,276,
+GCF_002585695.fna.gz,bcereus,1953,11,8,49,12,2,25,7,
+GCF_002585765.fna.gz,bcereus,new_alleles,40,8,147,44,2,~36,7,
+GCF_002585785.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002585905.fna.gz,bcereus,1450,218,87,104,69,103,202,18,
+GCF_002585955.fna.gz,bcereus,new_alleles,37,9,14,~12,2,25,7,
+GCF_002586115.fna.gz,bcereus,new_alleles,~37,8,14,12,37,50,~68,
+GCF_002586215.fna.gz,bcereus,118,47,28,14,26,2,36,7,
+GCF_002586265.fna.gz,bcereus,2054,213,116,223,225,336,107,128,
+GCF_002586275.fna.gz,bcereus,-,~356,77,~305,~372,-,118,32,
+GCF_002586285.fna.gz,bcereus,new_ST,31,9,14,95,12,14,7,
+GCF_002589745.fna.gz,bcereus,783,126,120,228,209,4,114,37,
+GCF_002807155.fna.gz,bcereus,90,6,4,41,5,43,46,3,
+GCF_002807165.fna.gz,bcereus,-,12,8,-,7,9,12,7,
+GCF_002807175.fna.gz,bcereus,18,11,9,14,12,12,14,7,ST-18 complex
+GCF_002807215.fna.gz,bcereus,1083,96,8,36,30,41,17,185,
+GCF_002807235.fna.gz,bcereus,2148,6,4,329,4,204,6,3,
+GCF_002807265.fna.gz,bcereus,493,12,8,13,10,2,17,7,
+GCF_002807375.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002807395.fna.gz,bcereus,1672,37,9,14,29,12,14,7,ST-18 complex
+GCF_002807415.fna.gz,bcereus,-,12,8,-,14,11,12,10,
+GCF_002807445.fna.gz,bcereus,1969,13,8,263,11,9,12,10,ST-142 complex
+GCF_002807505.fna.gz,bcereus,127,6,4,53,4,16,6,3,
+GCF_002807525.fna.gz,bcereus,-,37,9,14,12,-,14,7,
+GCF_002811445.fna.gz,bcereus,104,24,12,33,37,48,31,19,
+GCF_002813875.fna.gz,bcereus,new_ST,15,6,47,8,4,7,21,
+GCF_002835635.fna.gz,bcereus,1066,19,2,31,5,19,3,91,ST-205 complex
+GCF_002880735.fna.gz,bcereus,75,44,1,32,1,18,33,24,ST-365 complex
+GCF_002896915.fna.gz,bcereus,2184,51,2,21,5,19,3,253,ST-205 complex
+GCF_002911655.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_002952815.fna.gz,bcereus,2149,55,148,330,315,69,237,3,
+GCF_002976395.fna.gz,bcereus,1985,342,1,83,1,55,37,43,
+GCF_002976415.fna.gz,bcereus,1985,342,1,83,1,55,37,43,
+GCF_003004435.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_003013315.fna.gz,bcereus,new_ST,15,6,131,11,4,39,7,
+GCF_003020845.fna.gz,bcereus,1207,14,8,13,19,2,17,7,
+GCF_003122725.fna.gz,bcereus,2166,40,8,14,26,290,36,7,
+GCF_003151055.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_003151095.fna.gz,bcereus,205,19,2,21,5,19,3,2,ST-205 complex
+GCF_003265185.fna.gz,bcereus,139,50,8,14,12,12,36,7,ST-18 complex
+GCF_003270005.fna.gz,bcereus,2152,55,201,330,4,69,247,3,
+GCF_003270015.fna.gz,bcereus,-,76,182,-,-,305,237,3,
+GCF_003270025.fna.gz,bcereus,-,19,-,21,5,19,3,-,
+GCF_003270035.fna.gz,bcereus,2151,76,201,255,4,69,247,3,
+GCF_003298655.fna.gz,bcereus,2182,14,203,29,11,60,35,251,
+GCF_003332225.fna.gz,bcereus,1959,40,8,166,26,2,36,7,
+GCF_003439755.fna.gz,bcereus,975,19,2,21,5,114,3,2,ST-205 complex
+GCF_003545675.fna.gz,bcereus,197,15,7,7,2,7,8,13,ST-23 complex
+GCF_003568565.fna.gz,bcereus,1436,12,8,68,30,9,12,10,
+GCF_003586605.fna.gz,bcereus,465,11,9,14,29,12,14,7,ST-18 complex
+GCF_004006495.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_004022305.fna.gz,bcereus,1331,11,9,14,12,12,14,180,ST-18 complex
+GCF_004023705.fna.gz,bcereus,1437,247,1,83,1,55,37,43,
+GCF_004306975.fna.gz,bcereus,2622,246,2,21,5,19,3,2,ST-205 complex
+GCF_004306995.fna.gz,bcereus,932,202,116,223,174,205,171,128,
+GCF_004307115.fna.gz,bcereus,1274,14,8,13,11,2,17,17,
+GCF_004330325.fna.gz,bcereus,163,44,1,32,16,18,33,24,ST-365 complex
+GCF_004330405.fna.gz,bcereus,1810,65,1,293,1,1,52,42,
+GCF_004378425.fna.gz,bcereus,2320,14,8,148,28,4,12,23,
+GCF_004681985.fna.gz,bcereus,1317,13,8,68,30,9,62,10,
+GCF_004771155.fna.gz,bcereus,new_ST,241,8,8,10,8,17,7,
+GCF_004801195.fna.gz,bcereus,1437,247,1,83,1,55,37,43,
+GCF_005217125.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_005217235.fna.gz,bcereus,59,22,9,30,18,20,21,7,
+GCF_005217245.fna.gz,bcereus,2668,15,7,7,2,7,10,303,ST-23 complex
+GCF_005217255.fna.gz,bcereus,new_alleles,12,17,33,178,~329,35,7,
+GCF_005217265.fna.gz,bcereus,new_ST,12,17,336,178,24,35,7,
+GCF_005217285.fna.gz,bcereus,857,91,9,14,18,20,19,7,
+GCF_005217345.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_005217355.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_005217375.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_005217405.fna.gz,bcereus,new_ST,22,9,76,18,20,21,7,
+GCF_005217435.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_005217675.fna.gz,bcereus,257,15,7,7,2,5,10,13,ST-23 complex
+GCF_005217705.fna.gz,bcereus,-,13,8,8,11,11,12,-,
+GCF_005707595.fna.gz,bcereus,1241,241,8,8,10,8,17,17,
+GCF_006094295.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_006151815.fna.gz,bcereus,2703,13,8,8,11,9,12,23,ST-142 complex
+GCF_006349585.fna.gz,bcereus,1662,13,8,9,11,9,12,10,ST-142 complex
+GCF_006349695.fna.gz,bcereus,8,7,8,16,13,2,16,7,ST-8 complex
+GCF_006349715.fna.gz,bcereus,1155,40,8,14,26,2,36,7,
+GCF_006349735.fna.gz,bcereus,new_alleles,13,8,~36,19,9,17,17,
+GCF_006349775.fna.gz,bcereus,959,37,9,14,18,20,14,7,ST-18 complex
+GCF_006370265.fna.gz,bcereus,465,11,9,14,29,12,14,7,ST-18 complex
+GCF_006384875.fna.gz,bcereus,466,125,8,14,12,2,25,7,
+GCF_006864345.fna.gz,bcereus,496,12,8,9,135,9,12,10,
+GCF_007665505.fna.gz,bcereus,76,34,15,28,38,30,29,33,
+GCF_007666925.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_007667625.fna.gz,bcereus,new_ST,37,9,49,12,12,14,7,
+GCF_007667665.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_007668075.fna.gz,bcereus,1672,37,9,14,29,12,14,7,ST-18 complex
+GCF_007668125.fna.gz,bcereus,1672,37,9,14,29,12,14,7,ST-18 complex
+GCF_007673075.fna.gz,bcereus,new_alleles,37,9,14,12,12,~14,7,
+GCF_007676775.fna.gz,bcereus,100,13,8,46,28,9,12,7,ST-142 complex
+GCF_007677075.fna.gz,bcereus,1150,33,8,13,19,2,17,7,
+GCF_007677365.fna.gz,bcereus,1662,13,8,9,11,9,12,10,ST-142 complex
+GCF_007678085.fna.gz,bcereus,new_alleles,~113,~109,~66,~48,~328,~131,~37,
+GCF_007678855.fna.gz,bcereus,247,105,61,95,92,92,77,68,
+GCF_007679475.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_007679745.fna.gz,bcereus,new_ST,14,8,40,30,2,17,8,
+GCF_007680615.fna.gz,bcereus,2660,22,9,412,18,20,288,7,
+GCF_007923085.fna.gz,bcereus,156,40,9,14,12,12,25,7,ST-18 complex
+GCF_008041975.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_008375355.fna.gz,bcereus,1331,11,9,14,12,12,14,180,ST-18 complex
+GCF_008416285.fna.gz,bcereus,990,65,1,93,1,51,37,24,
+GCF_008682215.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_008682265.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008682285.fna.gz,bcereus,new_alleles,15,7,7,~2,93,26,13,
+GCF_008764255.fna.gz,bcereus,new_ST,14,8,40,30,2,17,8,
+GCF_008829505.fna.gz,bcereus,new_alleles,11,~8,49,12,2,36,7,
+GCF_008923485.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008923495.fna.gz,bcereus,2781,285,8,48,45,58,87,7,
+GCF_008923505.fna.gz,bcereus,2781,285,8,48,45,58,87,7,
+GCF_008923565.fna.gz,bcereus,2781,285,8,48,45,58,87,7,
+GCF_008923575.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008923585.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008923595.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008923605.fna.gz,bcereus,new_alleles,15,6,~47,8,4,7,7,
+GCF_008923675.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_008923705.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_008923765.fna.gz,bcereus,1348,15,7,7,2,96,26,13,ST-23 complex
+GCF_008923775.fna.gz,bcereus,1290,13,8,8,11,9,12,8,ST-142 complex
+GCF_008923815.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_008923825.fna.gz,bcereus,new_alleles,15,6,~47,8,4,7,7,
+GCF_009497015.fna.gz,bcereus,1477,15,143,10,8,4,7,14,
+GCF_009739925.fna.gz,bcereus,new_alleles,15,6,131,11,4,~7,14,
+GCF_009739965.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_009739985.fna.gz,bcereus,new_ST,14,8,36,30,29,17,53,
+GCF_009928555.fna.gz,bcereus,1481,13,8,9,11,9,12,8,ST-142 complex
+GCF_009935145.fna.gz,bcereus,2758,15,6,423,8,4,8,14,ST-97 complex
+GCF_009935575.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_009935625.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_009935655.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_009935735.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_009935775.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_010223795.fna.gz,bcereus,157,7,8,47,12,2,25,7,ST-8 complex
+GCF_010232525.fna.gz,bcereus,157,7,8,47,12,2,25,7,ST-8 complex
+GCF_010577945.fna.gz,bcereus,253,14,8,48,45,58,87,7,
+GCF_010578105.fna.gz,bcereus,new_ST,13,17,40,19,8,17,10,
+GCF_010578145.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010578205.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010578245.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010578275.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010580595.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_010580665.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010580675.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010993515.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_010993575.fna.gz,bcereus,1673,172,71,14,29,267,14,7,
+GCF_011751555.fna.gz,bcereus,2170,20,8,363,19,29,17,7,
+GCF_011765305.fna.gz,bcereus,427,122,8,8,11,9,12,10,ST-142 complex
+GCF_012395315.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_012395345.fna.gz,bcereus,new_ST,65,1,93,1,51,52,24,
+GCF_012395385.fna.gz,bcereus,new_alleles,~37,9,76,18,12,14,7,
+GCF_012395395.fna.gz,bcereus,427,122,8,8,11,9,12,10,ST-142 complex
+GCF_012395425.fna.gz,bcereus,new_alleles,93,6,~170,9,4,7,21,
+GCF_013112375.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_013177495.fna.gz,bcereus,new_alleles,~65,1,51,1,50,52,~24,
+GCF_013267235.fna.gz,bcereus,62,38,1,32,1,18,33,24,ST-365 complex
+GCF_013267255.fna.gz,bcereus,new_ST,40,8,14,12,2,36,142,
+GCF_013267275.fna.gz,bcereus,new_ST,40,8,14,12,2,36,142,
+GCF_013267455.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_013267475.fna.gz,bcereus,145,65,1,52,1,1,37,24,
+GCF_013267775.fna.gz,bcereus,1263,34,1,124,16,18,33,89,ST-365 complex
+GCF_013284425.fna.gz,bcereus,799,13,8,8,107,9,12,10,ST-142 complex
+GCF_013284445.fna.gz,bcereus,960,7,8,15,12,2,16,7,ST-8 complex
+GCF_013284455.fna.gz,bcereus,395,13,8,8,11,4,12,53,ST-142 complex
+GCF_013284505.fna.gz,bcereus,395,13,8,8,11,4,12,53,ST-142 complex
+GCF_013303115.fna.gz,bcereus,1465,122,8,8,14,9,12,10,ST-142 complex
+GCF_013394245.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_014596335.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_015069665.fna.gz,bcereus,new_alleles,59,~34,~301,22,~127,209,26,
+GCF_015071065.fna.gz,bcereus,new_alleles,~277,~170,~189,~15,~160,~92,~77,
+GCF_015071115.fna.gz,bcereus,new_alleles,~26,~74,~181,~15,~234,~100,~77,
+GCF_015645275.fna.gz,bcereus,427,122,8,8,11,9,12,10,ST-142 complex
+GCF_015845135.fna.gz,bcereus,new_ST,69,6,170,9,242,7,21,
+GCF_015845375.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_015845455.fna.gz,bcereus,1123,16,6,12,9,4,173,15,
+GCF_015905265.fna.gz,bcereus,new_ST,14,8,40,19,41,17,10,
+GCF_016027015.fna.gz,bcereus,11,34,1,32,1,33,37,24,ST-365 complex
+GCF_016117775.fna.gz,bcereus,908,115,124,119,116,119,108,88,
+GCF_016483175.fna.gz,bcereus,734,25,10,22,165,83,23,11,
+GCF_016483205.fna.gz,bcereus,new_alleles,26,21,~104,68,~27,32,18,
+GCF_016483245.fna.gz,bcereus,487,83,26,143,133,91,41,30,
+GCF_016483265.fna.gz,bcereus,new_alleles,108,139,104,~15,221,92,79,
+GCF_016483285.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_016483295.fna.gz,bcereus,new_ST,8,10,22,15,35,9,11,
+GCF_016483305.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_016483345.fna.gz,bcereus,886,43,50,35,125,70,41,30,ST-111 complex
+GCF_016483355.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_016483385.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_016483395.fna.gz,bcereus,new_alleles,134,13,274,253,84,44,~35,
+GCF_016483425.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_016483445.fna.gz,bcereus,278,83,26,35,42,39,71,30,ST-111 complex
+GCF_016483455.fna.gz,bcereus,2009,43,26,78,42,334,71,264,
+GCF_016483465.fna.gz,bcereus,56,15,7,7,2,7,26,13,ST-23 complex
+GCF_016483475.fna.gz,bcereus,new_alleles,~221,~177,~303,~15,~234,~202,~128,
+GCF_016483525.fna.gz,bcereus,new_alleles,~229,5,271,240,281,183,190,
+GCF_016483545.fna.gz,bcereus,new_alleles,43,~26,35,40,39,41,30,
+GCF_016483555.fna.gz,bcereus,new_alleles,~118,35,~171,22,96,20,26,
+GCF_016483575.fna.gz,bcereus,new_ST,87,26,78,90,273,220,30,
+GCF_016483605.fna.gz,bcereus,new_alleles,87,~26,78,90,273,41,30,
+GCF_016483615.fna.gz,bcereus,23,15,7,7,2,5,8,13,ST-23 complex
+GCF_016483645.fna.gz,bcereus,434,26,21,126,104,78,32,18,
+GCF_016483665.fna.gz,bcereus,428,108,51,130,121,109,92,79,
+GCF_016483685.fna.gz,bcereus,new_alleles,274,115,227,200,195,170,~163,
+GCF_016483705.fna.gz,bcereus,new_alleles,110,56,~419,188,64,96,26,
+GCF_016483725.fna.gz,bcereus,616,81,53,117,71,113,93,80,
+GCF_016483765.fna.gz,bcereus,1009,16,6,170,9,4,7,21,
+GCF_016483785.fna.gz,bcereus,223,43,26,35,42,39,41,63,ST-111 complex
+GCF_016483835.fna.gz,bcereus,new_alleles,285,8,~283,~45,58,87,7,
+GCF_016483925.fna.gz,bcereus,new_alleles,14,~8,48,45,58,51,7,
+GCF_016580425.fna.gz,bcereus,1119,34,1,71,16,18,33,24,ST-365 complex
+GCF_016632305.fna.gz,bcereus,new_ST,117,9,151,18,12,14,7,
+GCF_016727405.fna.gz,bcereus,1949,33,8,44,19,2,17,7,
+GCF_016757815.fna.gz,bcereus,365,34,1,32,1,18,33,24,ST-365 complex
+GCF_016757835.fna.gz,bcereus,365,34,1,32,1,18,33,24,ST-365 complex
+GCF_016757865.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_016757895.fna.gz,bcereus,365,34,1,32,1,18,33,24,ST-365 complex
+GCF_016757935.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_016758415.fna.gz,bcereus,365,34,1,32,1,18,33,24,ST-365 complex
+GCF_016758475.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_016758515.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_016758535.fna.gz,bcereus,1284,247,1,83,1,239,37,43,
+GCF_016758545.fna.gz,bcereus,2096,91,8,14,11,2,36,7,
+GCF_016758575.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_016758645.fna.gz,bcereus,163,44,1,32,16,18,33,24,ST-365 complex
+GCF_016774535.fna.gz,bcereus,752,93,6,198,8,4,7,21,
+GCF_016774555.fna.gz,bcereus,1595,208,8,48,45,58,87,7,
+GCF_016774575.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_016900175.fna.gz,bcereus,19,12,8,9,11,11,12,8,
+GCF_016917795.fna.gz,bcereus,1265,15,7,7,2,93,26,13,ST-23 complex
+GCF_017356065.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_018221445.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_018221485.fna.gz,bcereus,1119,34,1,71,16,18,33,24,ST-365 complex
+GCF_018221505.fna.gz,bcereus,267,79,52,32,70,55,37,24,
+GCF_018221525.fna.gz,bcereus,new_ST,14,8,13,30,2,17,7,
+GCF_018221535.fna.gz,bcereus,12,15,7,7,2,7,10,13,ST-23 complex
+GCF_018221565.fna.gz,bcereus,1431,13,8,8,11,9,12,10,ST-142 complex
+GCF_018309125.fna.gz,bcereus,new_alleles,56,1,~358,~150,51,37,24,
+GCF_018309145.fna.gz,bcereus,new_alleles,3,23,~122,116,38,43,99,
+GCF_018309165.fna.gz,bcereus,new_alleles,13,8,9,28,4,12,~10,
+GCF_018499925.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_018884185.fna.gz,bcereus,760,15,6,29,46,4,8,21,ST-97 complex
+GCF_900094775.fna.gz,bcereus,2107,71,41,66,356,42,61,49,
+GCF_900094845.fna.gz,bcereus,794,173,110,203,94,42,153,138,
+GCF_900094905.fna.gz,bcereus,1007,222,36,236,231,54,179,32,
+GCF_900095125.fna.gz,bcereus,616,81,53,117,71,113,93,80,
+GCF_900155895.fna.gz,bcereus,2105,155,95,266,166,327,192,127,
+GCF_900176805.fna.gz,bcereus,177,13,47,9,11,68,12,10,
+GCF_900176915.fna.gz,bcereus,1263,34,1,124,16,18,33,89,ST-365 complex
+GCF_900176935.fna.gz,bcereus,1236,13,8,9,11,9,12,7,ST-142 complex
+GCF_900176955.fna.gz,bcereus,73,13,8,9,14,9,12,31,ST-142 complex
+GCF_900176965.fna.gz,bcereus,1223,55,1,83,1,230,37,43,
+GCF_900176975.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_900176995.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_900177025.fna.gz,bcereus,745,12,8,9,192,11,12,10,
+GCF_900445335.fna.gz,bcereus,23,15,7,7,2,5,8,13,ST-23 complex
+GCF_900445355.fna.gz,bcereus,4,13,8,8,11,11,12,7,ST-142 complex
+GCF_900445375.fna.gz,bcereus,33,22,9,18,18,20,19,7,
+GCF_900750765.fna.gz,bcereus,2320,14,8,148,28,4,12,23,
+GCF_903545225.fna.gz,bcereus,26,3,2,31,5,16,3,4,
+GCF_905221555.fna.gz,bcereus,24,12,8,9,14,11,12,10,
+GCF_905221595.fna.gz,bcereus,74,42,27,37,41,40,42,32,

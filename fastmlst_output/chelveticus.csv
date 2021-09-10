@@ -1,0 +1,15 @@
+Genome,Scheme,ST,Che_aspA,Che_atpA,Che_glnA,Che_gltA,Che_glyA,Che_pgm,Che_tkt,clonal_complex
+GCF_002080395.fna.gz,chelveticus,1,1,1,1,1,1,1,1,1.0
+GCF_004345065.fna.gz,chelveticus,new_alleles,4,1,~6,1,~5,~2,1,
+GCF_006151585.fna.gz,chelveticus,new_alleles,4,1,1,1,~5,~1,1,
+GCF_006151595.fna.gz,chelveticus,new_alleles,~7,1,~1,3,2,~2,2,
+GCF_006151605.fna.gz,chelveticus,new_alleles,4,1,1,1,~2,1,1,
+GCF_006151615.fna.gz,chelveticus,new_alleles,4,1,~1,1,~5,2,1,
+GCF_006151625.fna.gz,chelveticus,new_ST,4,1,1,1,2,1,1,
+GCF_006229055.fna.gz,chelveticus,new_alleles,7,5,1,4,~9,~2,1,
+GCF_006229075.fna.gz,chelveticus,new_alleles,4,1,1,1,~9,1,1,
+GCF_006229085.fna.gz,chelveticus,new_alleles,7,5,~6,4,~9,~2,2,
+GCF_008017695.fna.gz,chelveticus,1,1,1,1,1,1,1,1,1.0
+GCF_008017775.fna.gz,chelveticus,8,7,5,5,4,8,5,2,
+GCF_900176295.fna.gz,chelveticus,1,1,1,1,1,1,1,1,1.0
+GCF_900446405.fna.gz,chelveticus,1,1,1,1,1,1,1,1,1.0

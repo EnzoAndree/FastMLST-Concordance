@@ -1,0 +1,1764 @@
+Genome,Scheme,ST,aspA,glnA,gltA,glyA,pgm,tkt,uncA,clonal_complex
+GCF_000009085.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000011865.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_000015525.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_000017905.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_000025425.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_000148705.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_000163975.fna.gz,cjejuni,841,64,99,78,104,139,108,16,
+GCF_000168115.fna.gz,cjejuni,883,2,17,2,3,2,1,5,ST-21 complex
+GCF_000168135.fna.gz,cjejuni,362,1,2,49,4,11,66,8,ST-362 complex
+GCF_000168175.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_000168195.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000171795.fna.gz,cjejuni,1919,9,2,2,10,10,3,5,ST-52 complex
+GCF_000184205.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_000234525.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_000234545.fna.gz,cjejuni,429,7,4,5,2,11,1,5,ST-48 complex
+GCF_000242375.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_000242395.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_000254255.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_000254275.fna.gz,cjejuni,4834,103,2,5,2,156,3,6,ST-353 complex
+GCF_000254295.fna.gz,cjejuni,4835,64,89,319,100,94,103,16,
+GCF_000254315.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_000254335.fna.gz,cjejuni,791,7,97,5,2,135,68,26,
+GCF_000254355.fna.gz,cjejuni,3504,7,55,5,10,11,68,6,ST-446 complex
+GCF_000254375.fna.gz,cjejuni,4836,2,378,27,2,11,3,5,
+GCF_000254395.fna.gz,cjejuni,46,2,21,5,3,2,1,5,ST-206 complex
+GCF_000254415.fna.gz,cjejuni,4837,8,17,5,3,10,59,6,ST-353 complex
+GCF_000254435.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_000254455.fna.gz,cjejuni,47,2,1,1,5,2,1,5,ST-21 complex
+GCF_000254475.fna.gz,cjejuni,4840,2,4,27,122,11,1,5,ST-48 complex
+GCF_000254495.fna.gz,cjejuni,4883,27,33,22,49,101,9,31,ST-1275 complex
+GCF_000254515.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_000254535.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_000254555.fna.gz,cjejuni,4838,7,17,5,68,11,3,6,ST-353 complex
+GCF_000254575.fna.gz,cjejuni,443,24,17,2,15,23,3,12,ST-443 complex
+GCF_000254595.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000254615.fna.gz,cjejuni,1962,55,172,21,49,125,83,51,
+GCF_000254635.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_000254655.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_000254675.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_000254695.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_000254715.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000254735.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_000254755.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_000254775.fna.gz,cjejuni,4839,9,17,2,2,86,3,309,
+GCF_000254795.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_000254815.fna.gz,cjejuni,5159,7,17,5,2,167,457,6,ST-353 complex
+GCF_000254835.fna.gz,cjejuni,939,7,2,5,2,156,3,6,ST-353 complex
+GCF_000254855.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_000254875.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000254895.fna.gz,cjejuni,452,7,17,12,2,10,3,6,ST-353 complex
+GCF_000254915.fna.gz,cjejuni,5161,1,4,2,2,225,1,17,ST-61 complex
+GCF_000254935.fna.gz,cjejuni,132,1,6,22,24,12,28,1,ST-508 complex
+GCF_000254955.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_000254975.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_000254995.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_000255015.fna.gz,cjejuni,38,2,4,2,2,6,1,5,ST-48 complex
+GCF_000255035.fna.gz,cjejuni,806,2,1,1,3,140,3,5,ST-21 complex
+GCF_000255055.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_000255075.fna.gz,cjejuni,380,7,2,6,10,78,37,1,
+GCF_000255095.fna.gz,cjejuni,220,1,6,29,2,40,32,3,ST-179 complex
+GCF_000283215.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_000285675.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000285695.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000285715.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000285735.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000285755.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000302555.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000304375.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000314085.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_000314265.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_000314285.fna.gz,cjejuni,2381,175,251,216,282,359,293,102,
+GCF_000314445.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_000314525.fna.gz,cjejuni,-,2,10,2,4,-,3,6,
+GCF_000355825.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_000355845.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_000397125.fna.gz,cjejuni,new_alleles,7,17,2,~66,23,3,12,
+GCF_000430385.fna.gz,cjejuni,1460,6,4,5,2,11,1,5,ST-48 complex
+GCF_000438865.fna.gz,cjejuni,362,1,2,49,4,11,66,8,ST-362 complex
+GCF_000440015.fna.gz,cjejuni,3652,1,3,6,331,3,75,3,ST-22 complex
+GCF_000466065.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000466075.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000466105.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000466925.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000468915.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_000493495.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_000509895.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_000632435.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_000633065.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000685605.fna.gz,cjejuni,305,9,53,2,10,11,3,3,ST-574 complex
+GCF_000686225.fna.gz,cjejuni,1919,9,2,2,10,10,3,5,ST-52 complex
+GCF_000686265.fna.gz,cjejuni,2157,8,21,2,212,153,253,147,
+GCF_000686285.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_000686305.fna.gz,cjejuni,4397,60,69,52,10,151,3,6,
+GCF_000686325.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_000686345.fna.gz,cjejuni,3919,24,30,2,2,11,59,6,ST-460 complex
+GCF_000686365.fna.gz,cjejuni,918,2,4,1,4,19,1,5,ST-48 complex
+GCF_000686385.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_000686405.fna.gz,cjejuni,3630,9,2,42,4,11,9,253,
+GCF_000686445.fna.gz,cjejuni,161,14,21,2,10,86,3,6,ST-52 complex
+GCF_000737085.fna.gz,cjejuni,8785,29,7,10,4,42,7,1,ST-45 complex
+GCF_000752275.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000752375.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000752795.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000753015.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000753095.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000753175.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000753295.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_000759575.fna.gz,cjejuni,44,8,1,6,3,2,1,1,ST-21 complex
+GCF_000772225.fna.gz,cjejuni,3644,7,4,27,68,11,3,6,
+GCF_000821125.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_000830775.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000830805.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000830825.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000830845.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000830865.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_000835285.fna.gz,cjejuni,2132,7,2,5,2,2,3,6,ST-353 complex
+GCF_000835305.fna.gz,cjejuni,806,2,1,1,3,140,3,5,ST-21 complex
+GCF_000835345.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_000835365.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_000934305.fna.gz,cjejuni,5843,1,1,5,48,394,88,233,
+GCF_000943385.fna.gz,cjejuni,2209,1,6,29,176,40,32,3,ST-179 complex
+GCF_000943395.fna.gz,cjejuni,5523,64,33,78,18,585,86,16,
+GCF_000943435.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_000943445.fna.gz,cjejuni,5524,18,33,22,326,1,109,60,
+GCF_000943475.fna.gz,cjejuni,2209,1,6,29,176,40,32,3,ST-179 complex
+GCF_000943485.fna.gz,cjejuni,2209,1,6,29,176,40,32,3,ST-179 complex
+GCF_000948095.fna.gz,cjejuni,5524,18,33,22,326,1,109,60,
+GCF_000948105.fna.gz,cjejuni,2209,1,6,29,176,40,32,3,ST-179 complex
+GCF_001223585.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001223725.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001223745.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001223765.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001223845.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_001223885.fna.gz,cjejuni,585,69,74,61,6,97,89,48,
+GCF_001223925.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001224005.fna.gz,cjejuni,861,2,1,42,3,148,1,5,ST-21 complex
+GCF_001224025.fna.gz,cjejuni,227,2,4,5,2,2,1,5,ST-206 complex
+GCF_001224105.fna.gz,cjejuni,47,2,1,1,5,2,1,5,ST-21 complex
+GCF_001224125.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001224205.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001224265.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001224325.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001224345.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001224385.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001224405.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001224465.fna.gz,cjejuni,2135,8,1,6,3,2,1,12,ST-21 complex
+GCF_001224485.fna.gz,cjejuni,595,7,2,1,2,10,3,6,ST-353 complex
+GCF_001224585.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001224625.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001224665.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001224805.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001224845.fna.gz,cjejuni,5718,8,10,2,2,11,487,6,ST-354 complex
+GCF_001224865.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001224905.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001224965.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001224985.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001225005.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001225025.fna.gz,cjejuni,441,7,1,2,83,2,3,6,
+GCF_001225045.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001225065.fna.gz,cjejuni,233,2,7,10,4,1,7,1,ST-45 complex
+GCF_001225105.fna.gz,cjejuni,273,2,21,5,37,60,1,5,ST-206 complex
+GCF_001225165.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001225185.fna.gz,cjejuni,-,2,4,~1,2,-,1,5,
+GCF_001225205.fna.gz,cjejuni,1044,2,10,2,4,19,3,6,ST-658 complex
+GCF_001225265.fna.gz,cjejuni,1709,22,15,4,64,74,25,23,ST-1034 complex
+GCF_001225325.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001225345.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001225385.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001225405.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001225425.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001225465.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_001225565.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001225645.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001225685.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001225745.fna.gz,cjejuni,1040,7,84,1,10,11,3,6,ST-574 complex
+GCF_001225785.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001225805.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001225845.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001225885.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001225925.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001226005.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001226025.fna.gz,cjejuni,986,91,2,42,4,169,9,8,
+GCF_001226045.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001226065.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001226085.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001226145.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001226225.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001226245.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001226345.fna.gz,cjejuni,233,2,7,10,4,1,7,1,ST-45 complex
+GCF_001226385.fna.gz,cjejuni,273,2,21,5,37,60,1,5,ST-206 complex
+GCF_001226425.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001226485.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001226545.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001226665.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001226745.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001226825.fna.gz,cjejuni,3029,22,53,4,28,363,3,35,
+GCF_001226845.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001226945.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001227065.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001227125.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001227265.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001227285.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001227305.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001227345.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_001227405.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001227425.fna.gz,cjejuni,400,8,17,5,2,10,59,6,ST-353 complex
+GCF_001227465.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001227485.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_001227525.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001227605.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_001227665.fna.gz,cjejuni,861,2,1,42,3,148,1,5,ST-21 complex
+GCF_001227765.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001227785.fna.gz,cjejuni,5726,2,1,5,462,2,1,5,ST-21 complex
+GCF_001227805.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001227845.fna.gz,cjejuni,1947,1,94,6,4,3,3,3,ST-22 complex
+GCF_001228005.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_001228125.fna.gz,cjejuni,5729,7,114,2,83,2,3,6,
+GCF_001228165.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001228225.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001228245.fna.gz,cjejuni,206,2,21,5,37,2,1,5,ST-206 complex
+GCF_001228305.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001228425.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_001228445.fna.gz,cjejuni,1709,22,15,4,64,74,25,23,ST-1034 complex
+GCF_001228485.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001228525.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001228545.fna.gz,cjejuni,1044,2,10,2,4,19,3,6,ST-658 complex
+GCF_001228565.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001228585.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001228605.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001228625.fna.gz,cjejuni,312,14,45,2,4,19,3,6,ST-658 complex
+GCF_001228665.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001228745.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001228805.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001228825.fna.gz,cjejuni,990,9,2,4,62,4,133,6,ST-257 complex
+GCF_001228865.fna.gz,cjejuni,614,73,21,2,10,86,3,6,ST-52 complex
+GCF_001228945.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001229025.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001229065.fna.gz,cjejuni,1044,2,10,2,4,19,3,6,ST-658 complex
+GCF_001229085.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001229145.fna.gz,cjejuni,1900,7,4,2,2,19,1,6,ST-658 complex
+GCF_001229225.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001229245.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001229325.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001229365.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001229445.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001229465.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001229485.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001229505.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001229545.fna.gz,cjejuni,206,2,21,5,37,2,1,5,ST-206 complex
+GCF_001229645.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001229665.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001229685.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001229825.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001229945.fna.gz,cjejuni,845,4,7,73,4,1,7,1,ST-45 complex
+GCF_001229985.fna.gz,cjejuni,2361,7,254,2,15,23,3,12,ST-443 complex
+GCF_001230045.fna.gz,cjejuni,1073,8,10,2,2,89,12,6,ST-354 complex
+GCF_001230085.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001230125.fna.gz,cjejuni,5018,2,1,1,3,492,1,5,ST-21 complex
+GCF_001230165.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001230205.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001230245.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001230285.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001230345.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001230365.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_001230405.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001230525.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_001230545.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001230565.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001230585.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001230605.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001230685.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001230705.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001230725.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001230865.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001230905.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001230945.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001231005.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001231045.fna.gz,cjejuni,882,7,4,5,68,93,3,46,
+GCF_001231085.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001231105.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001231165.fna.gz,cjejuni,5136,24,2,2,2,10,3,3,ST-464 complex
+GCF_001231185.fna.gz,cjejuni,1709,22,15,4,64,74,25,23,ST-1034 complex
+GCF_001231205.fna.gz,cjejuni,5739,315,112,5,2,13,1,26,
+GCF_001231245.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001231345.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001231385.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001231405.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_001231425.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001231505.fna.gz,cjejuni,81,2,4,2,2,6,3,17,ST-61 complex
+GCF_001231585.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001231605.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001231625.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001231685.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001231705.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001231745.fna.gz,cjejuni,273,2,21,5,37,60,1,5,ST-206 complex
+GCF_001231765.fna.gz,cjejuni,5732,24,2,2,2,10,59,1,ST-464 complex
+GCF_001231785.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001231845.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001231905.fna.gz,cjejuni,5018,2,1,1,3,492,1,5,ST-21 complex
+GCF_001231985.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001232125.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001232145.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001232165.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001232205.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001232265.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001232325.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001232365.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001232405.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001232425.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001232465.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001232485.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001232545.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_001232565.fna.gz,cjejuni,3769,2,1,12,3,2,1,12,ST-21 complex
+GCF_001232585.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001232665.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001232705.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001232725.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_001232745.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001232825.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001232885.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001232905.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001232925.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001232945.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001232965.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001233005.fna.gz,cjejuni,2258,2,84,2,68,2,68,5,
+GCF_001233025.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001233065.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001233085.fna.gz,cjejuni,2135,8,1,6,3,2,1,12,ST-21 complex
+GCF_001233105.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_001233185.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001233225.fna.gz,cjejuni,5738,160,84,5,10,13,3,5,
+GCF_001233245.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001233285.fna.gz,cjejuni,844,2,4,1,3,7,1,5,ST-48 complex
+GCF_001233305.fna.gz,cjejuni,523,2,4,1,93,11,3,6,ST-658 complex
+GCF_001233325.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001233405.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001233465.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001233545.fna.gz,cjejuni,5597,10,2,42,4,90,25,8,
+GCF_001233585.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_001233625.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001233645.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001233665.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001233685.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001233745.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001233765.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001233805.fna.gz,cjejuni,5758,7,422,5,10,11,3,6,ST-353 complex
+GCF_001233905.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_001233965.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001233985.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_001234065.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001234085.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001234145.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001234165.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001234225.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001234285.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001234305.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001234325.fna.gz,cjejuni,132,1,6,22,24,12,28,1,ST-508 complex
+GCF_001234425.fna.gz,cjejuni,132,1,6,22,24,12,28,1,ST-508 complex
+GCF_001234505.fna.gz,cjejuni,5717,2,421,4,64,332,7,23,ST-1034 complex
+GCF_001234565.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001234605.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001234665.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001234685.fna.gz,cjejuni,429,7,4,5,2,11,1,5,ST-48 complex
+GCF_001234745.fna.gz,cjejuni,2844,24,21,2,2,2,59,6,ST-460 complex
+GCF_001234825.fna.gz,cjejuni,220,1,6,29,2,40,32,3,ST-179 complex
+GCF_001234865.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001234885.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001234945.fna.gz,cjejuni,5136,24,2,2,2,10,3,3,ST-464 complex
+GCF_001234965.fna.gz,cjejuni,new_ST,1,4,52,2,6,3,17,
+GCF_001235005.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001235045.fna.gz,cjejuni,4811,6,4,52,2,89,282,5,
+GCF_001235065.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001235125.fna.gz,cjejuni,141,2,1,10,3,2,1,5,ST-21 complex
+GCF_001235145.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_001235165.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001235245.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001235365.fna.gz,cjejuni,587,1,2,42,4,90,25,8,ST-362 complex
+GCF_001235565.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_001235585.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001235625.fna.gz,cjejuni,1301,2,115,57,26,127,29,35,ST-692 complex
+GCF_001235765.fna.gz,cjejuni,5728,2,59,4,38,10,488,35,ST-433 complex
+GCF_001235825.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001235925.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001235965.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001235985.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001236085.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001236105.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001236125.fna.gz,cjejuni,5756,73,21,2,465,86,3,6,
+GCF_001236165.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001236205.fna.gz,cjejuni,1911,7,84,5,10,119,178,26,
+GCF_001236225.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001236305.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001236325.fna.gz,cjejuni,508,1,6,60,24,12,28,1,ST-508 complex
+GCF_001236345.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001236385.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001236445.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001236525.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_001236545.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001236605.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001236645.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001236665.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001236705.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_001236725.fna.gz,cjejuni,2401,64,105,20,287,94,103,16,
+GCF_001236765.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001236785.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001236805.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_001236845.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001236865.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001236905.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001236945.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001237005.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001237085.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_001237125.fna.gz,cjejuni,5136,24,2,2,2,10,3,3,ST-464 complex
+GCF_001237145.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001237205.fna.gz,cjejuni,132,1,6,22,24,12,28,1,ST-508 complex
+GCF_001237265.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001237345.fna.gz,cjejuni,5731,24,2,2,2,10,3,12,ST-464 complex
+GCF_001237385.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001237465.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001237545.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001237565.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001237585.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_001237605.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001237645.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_001237745.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001237785.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001237865.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001237885.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_001237965.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001238065.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001238105.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001238125.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001238165.fna.gz,cjejuni,883,2,17,2,3,2,1,5,ST-21 complex
+GCF_001238185.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001238245.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001238565.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_001238765.fna.gz,cjejuni,3102,2,84,12,3,11,1,5,ST-21 complex
+GCF_001238785.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_001238805.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001238825.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_001238885.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001238945.fna.gz,cjejuni,933,10,1,59,19,10,5,7,ST-403 complex
+GCF_001238965.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001238985.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_001239025.fna.gz,cjejuni,5727,2,1,12,462,2,1,5,ST-21 complex
+GCF_001239045.fna.gz,cjejuni,449,7,71,5,62,11,67,6,ST-581 complex
+GCF_001239105.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001239205.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001239265.fna.gz,cjejuni,573,7,28,4,28,17,34,12,ST-573 complex
+GCF_001239305.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001239325.fna.gz,cjejuni,508,1,6,60,24,12,28,1,ST-508 complex
+GCF_001239345.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001239365.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001239445.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001239485.fna.gz,cjejuni,3534,64,81,111,143,134,153,16,
+GCF_001239645.fna.gz,cjejuni,5730,7,17,5,2,22,5,1,ST-353 complex
+GCF_001239685.fna.gz,cjejuni,986,91,2,42,4,169,9,8,
+GCF_001291505.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001291585.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_001291805.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001291825.fna.gz,cjejuni,132,1,6,22,24,12,28,1,ST-508 complex
+GCF_001291925.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001291965.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001292025.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001292145.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001292185.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001292205.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001292245.fna.gz,cjejuni,4279,27,22,22,376,43,86,31,ST-1275 complex
+GCF_001292265.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001292285.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001292385.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_001292485.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001299565.fna.gz,cjejuni,362,1,2,49,4,11,66,8,ST-362 complex
+GCF_001299595.fna.gz,cjejuni,362,1,2,49,4,11,66,8,ST-362 complex
+GCF_001314285.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001406935.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_001406955.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001406975.fna.gz,cjejuni,148,2,1,6,3,2,1,5,ST-21 complex
+GCF_001406995.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001407015.fna.gz,cjejuni,47,2,1,1,5,2,1,5,ST-21 complex
+GCF_001407035.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001407055.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001407075.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_001407095.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001407115.fna.gz,cjejuni,824,9,2,2,2,11,5,6,ST-257 complex
+GCF_001407135.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001407195.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001407315.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001407345.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001407365.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001407415.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001407435.fna.gz,cjejuni,148,2,1,6,3,2,1,5,ST-21 complex
+GCF_001407455.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001407475.fna.gz,cjejuni,1707,9,2,5,2,11,3,1,ST-607 complex
+GCF_001407495.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001407515.fna.gz,cjejuni,47,2,1,1,5,2,1,5,ST-21 complex
+GCF_001407535.fna.gz,cjejuni,441,7,1,2,83,2,3,6,
+GCF_001407555.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001407575.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001407595.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_001407635.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001407655.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001407675.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001407695.fna.gz,cjejuni,2180,2,4,2,25,11,3,5,ST-658 complex
+GCF_001407715.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001407735.fna.gz,cjejuni,47,2,1,1,5,2,1,5,ST-21 complex
+GCF_001407755.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_001407775.fna.gz,cjejuni,443,24,17,2,15,23,3,12,ST-443 complex
+GCF_001407795.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_001407815.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001407855.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_001407895.fna.gz,cjejuni,2123,1,2,42,4,2,25,8,ST-362 complex
+GCF_001407915.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_001407935.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001407955.fna.gz,cjejuni,883,2,17,2,3,2,1,5,ST-21 complex
+GCF_001407975.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001407995.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001408015.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_001408055.fna.gz,cjejuni,7546,2,257,80,243,385,25,212,
+GCF_001408095.fna.gz,cjejuni,441,7,1,2,83,2,3,6,
+GCF_001408115.fna.gz,cjejuni,2364,14,249,5,2,11,3,6,ST-353 complex
+GCF_001408135.fna.gz,cjejuni,429,7,4,5,2,11,1,5,ST-48 complex
+GCF_001408155.fna.gz,cjejuni,367,2,2,4,62,4,5,6,ST-257 complex
+GCF_001408175.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_001408195.fna.gz,cjejuni,904,24,2,5,53,23,3,1,ST-607 complex
+GCF_001408215.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001408235.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001412295.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_001416835.fna.gz,cjejuni,7729,7,112,5,2,741,67,6,ST-353 complex
+GCF_001417165.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_001417285.fna.gz,cjejuni,2934,7,112,5,2,167,67,6,ST-353 complex
+GCF_001418835.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_001418855.fna.gz,cjejuni,8171,14,21,2,10,127,3,6,ST-52 complex
+GCF_001418905.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001418915.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001418925.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001418935.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001418985.fna.gz,cjejuni,-,4,7,10,4,-,7,1,
+GCF_001419025.fna.gz,cjejuni,8812,37,490,292,28,694,25,469,
+GCF_001419065.fna.gz,cjejuni,1233,7,17,5,10,10,177,6,ST-353 complex
+GCF_001419085.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001419105.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001419125.fna.gz,cjejuni,8180,181,53,27,10,11,3,6,ST-574 complex
+GCF_001419165.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001419185.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001419195.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001419245.fna.gz,cjejuni,6091,2,4,5,25,11,203,5,
+GCF_001419295.fna.gz,cjejuni,5453,1,6,137,176,40,478,3,ST-179 complex
+GCF_001419475.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001419505.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001419625.fna.gz,cjejuni,8814,4,7,12,4,799,7,1,ST-45 complex
+GCF_001419635.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001419645.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001420435.fna.gz,cjejuni,1953,7,17,2,2,86,3,1,ST-353 complex
+GCF_001420455.fna.gz,cjejuni,9676,37,75,600,48,141,34,1,ST-661 complex
+GCF_001420485.fna.gz,cjejuni,new_ST,7,75,4,64,86,59,1,
+GCF_001432345.fna.gz,cjejuni,3579,7,4,27,68,11,1,6,
+GCF_001441735.fna.gz,cjejuni,8177,3,222,29,250,303,25,35,
+GCF_001441755.fna.gz,cjejuni,6052,2,4,1,2,22,1,5,ST-48 complex
+GCF_001442025.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_001442185.fna.gz,cjejuni,3510,7,17,5,2,13,3,6,ST-353 complex
+GCF_001442255.fna.gz,cjejuni,462,7,17,5,2,11,3,6,ST-353 complex
+GCF_001442295.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001442335.fna.gz,cjejuni,8813,7,2,512,2,798,3,6,ST-353 complex
+GCF_001457695.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_001488115.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001488675.fna.gz,cjejuni,8333,64,22,20,97,134,204,16,
+GCF_001489095.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_001490635.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001491455.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001491675.fna.gz,cjejuni,8333,64,22,20,97,134,204,16,
+GCF_001494015.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_001494515.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001496075.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001498975.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001506185.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506205.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506225.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506245.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506265.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506285.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506305.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506345.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506365.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506385.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506405.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506425.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506445.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506465.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506485.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506505.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506525.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506545.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506565.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506585.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506605.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506625.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506645.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506665.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506685.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506705.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506725.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506745.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506765.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506785.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506805.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506825.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506845.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506865.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506885.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506905.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506925.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001506945.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506965.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001506985.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507005.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507025.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507045.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507065.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507085.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507105.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001507125.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507145.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507165.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507185.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507205.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001507225.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507245.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_001507265.fna.gz,cjejuni,794,10,81,50,87,120,76,52,ST-677 complex
+GCF_001516405.fna.gz,cjejuni,5233,2,17,5,3,2,1,5,ST-21 complex
+GCF_001516415.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001516425.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001516435.fna.gz,cjejuni,2049,8,10,16,2,11,12,6,ST-354 complex
+GCF_001516485.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001516495.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001516505.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001516515.fna.gz,cjejuni,5233,2,17,5,3,2,1,5,ST-21 complex
+GCF_001516565.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001547595.fna.gz,cjejuni,3930,7,78,42,4,11,12,8,
+GCF_001547605.fna.gz,cjejuni,1232,7,17,5,10,11,3,6,ST-353 complex
+GCF_001547615.fna.gz,cjejuni,2328,8,2,2,212,153,253,147,
+GCF_001547625.fna.gz,cjejuni,653,9,17,2,2,11,12,6,ST-354 complex
+GCF_001547675.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_001563565.fna.gz,cjejuni,1471,24,171,2,2,89,59,6,ST-460 complex
+GCF_001587015.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001587035.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001686905.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001717625.fna.gz,cjejuni,1839,2,222,29,250,303,25,35,
+GCF_001721945.fna.gz,cjejuni,8789,2,1,12,3,497,1,5,ST-21 complex
+GCF_001721965.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_001721985.fna.gz,cjejuni,1911,7,84,5,10,119,178,26,
+GCF_001761585.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001761645.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001761665.fna.gz,cjejuni,9281,485,2,583,104,43,350,31,
+GCF_001761685.fna.gz,cjejuni,508,1,6,60,24,12,28,1,ST-508 complex
+GCF_001761705.fna.gz,cjejuni,3322,15,22,78,18,205,86,188,
+GCF_001761725.fna.gz,cjejuni,5473,18,22,164,97,115,86,47,
+GCF_001761745.fna.gz,cjejuni,9282,1,33,584,104,43,109,31,
+GCF_001761765.fna.gz,cjejuni,9282,1,33,584,104,43,109,31,
+GCF_001761785.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001761805.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001761865.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001761885.fna.gz,cjejuni,9282,1,33,584,104,43,109,31,
+GCF_001761905.fna.gz,cjejuni,8819,4,22,22,189,134,101,16,
+GCF_001762125.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_001762145.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001762165.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001762175.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001762255.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_001762305.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001762555.fna.gz,cjejuni,1888,3,1,2,10,11,68,6,ST-49 complex
+GCF_001762575.fna.gz,cjejuni,1888,3,1,2,10,11,68,6,ST-49 complex
+GCF_001762595.fna.gz,cjejuni,8822,18,70,22,97,319,388,47,
+GCF_001762615.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001762635.fna.gz,cjejuni,8823,18,70,22,104,139,175,16,
+GCF_001762655.fna.gz,cjejuni,4209,18,2,263,104,43,398,31,
+GCF_001762675.fna.gz,cjejuni,5473,18,22,164,97,115,86,47,
+GCF_001762695.fna.gz,cjejuni,6307,27,33,22,104,43,109,31,ST-1275 complex
+GCF_001762895.fna.gz,cjejuni,8819,4,22,22,189,134,101,16,
+GCF_001762915.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001762935.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001762945.fna.gz,cjejuni,4467,76,105,284,104,43,285,31,
+GCF_001762975.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001762995.fna.gz,cjejuni,8821,64,22,20,189,134,101,16,
+GCF_001763015.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001763035.fna.gz,cjejuni,448,61,70,22,18,2,74,47,
+GCF_001763045.fna.gz,cjejuni,9282,1,33,584,104,43,109,31,
+GCF_001763275.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001763315.fna.gz,cjejuni,5673,18,22,22,18,410,103,16,
+GCF_001763335.fna.gz,cjejuni,9289,18,22,388,24,935,101,31,
+GCF_001763385.fna.gz,cjejuni,5679,85,100,22,18,133,86,149,
+GCF_001763415.fna.gz,cjejuni,8840,161,33,22,104,43,109,278,
+GCF_001763435.fna.gz,cjejuni,997,76,33,78,104,43,109,31,
+GCF_001763445.fna.gz,cjejuni,4881,76,70,78,104,43,109,31,
+GCF_001763475.fna.gz,cjejuni,8840,161,33,22,104,43,109,278,
+GCF_001763495.fna.gz,cjejuni,9278,64,99,22,104,931,108,16,
+GCF_001763515.fna.gz,cjejuni,6676,24,30,95,2,89,59,6,ST-460 complex
+GCF_001763525.fna.gz,cjejuni,5473,18,22,164,97,115,86,47,
+GCF_001763535.fna.gz,cjejuni,4161,1,172,95,62,477,32,147,
+GCF_001763575.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_001763595.fna.gz,cjejuni,782,4,2,10,4,1,7,1,ST-45 complex
+GCF_001763615.fna.gz,cjejuni,782,4,2,10,4,1,7,1,ST-45 complex
+GCF_001763625.fna.gz,cjejuni,9278,64,99,22,104,931,108,16,
+GCF_001763645.fna.gz,cjejuni,9278,64,99,22,104,931,108,16,
+GCF_001763675.fna.gz,cjejuni,9274,76,22,165,98,146,729,16,
+GCF_001763695.fna.gz,cjejuni,6674,10,25,16,19,10,5,7,ST-403 complex
+GCF_001763755.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001763855.fna.gz,cjejuni,9261,7,172,21,49,936,224,51,
+GCF_001763865.fna.gz,cjejuni,9262,1,27,89,19,10,5,593,ST-403 complex
+GCF_001763915.fna.gz,cjejuni,6674,10,25,16,19,10,5,7,ST-403 complex
+GCF_001763965.fna.gz,cjejuni,9261,7,172,21,49,936,224,51,
+GCF_001764095.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_001764135.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001764155.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764175.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764195.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764215.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764225.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764275.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_001764295.fna.gz,cjejuni,9259,17,2,8,5,933,2,4,ST-177 complex
+GCF_001764315.fna.gz,cjejuni,9259,17,2,8,5,933,2,4,ST-177 complex
+GCF_001764335.fna.gz,cjejuni,508,1,6,60,24,12,28,1,ST-508 complex
+GCF_001764355.fna.gz,cjejuni,8819,4,22,22,189,134,101,16,
+GCF_001764375.fna.gz,cjejuni,9287,18,22,100,18,586,715,6,
+GCF_001764405.fna.gz,cjejuni,1212,8,2,5,53,11,3,105,ST-607 complex
+GCF_001764455.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764475.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764485.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764495.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_001764535.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001764595.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_001764635.fna.gz,cjejuni,190,2,1,5,3,2,3,5,ST-21 complex
+GCF_001764655.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001764665.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_001764675.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_001764715.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_001764735.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_001764745.fna.gz,cjejuni,422,2,1,5,3,2,5,5,ST-21 complex
+GCF_001764765.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_001764795.fna.gz,cjejuni,1517,8,10,149,2,11,12,6,ST-354 complex
+GCF_001764815.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001764825.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_001764845.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001764875.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001764895.fna.gz,cjejuni,474,2,4,1,2,2,1,5,ST-48 complex
+GCF_001764915.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001764925.fna.gz,cjejuni,7262,9,2,5,10,11,3,1,ST-607 complex
+GCF_001764955.fna.gz,cjejuni,6238,8,2,27,53,11,3,1,ST-607 complex
+GCF_001764975.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001764995.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001765015.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001765035.fna.gz,cjejuni,1953,7,17,2,2,86,3,1,ST-353 complex
+GCF_001765055.fna.gz,cjejuni,8837,8,2,2,2,309,253,147,
+GCF_001765075.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_001765085.fna.gz,cjejuni,1919,9,2,2,10,10,3,5,ST-52 complex
+GCF_001765115.fna.gz,cjejuni,5671,7,17,351,15,23,3,12,ST-443 complex
+GCF_001765125.fna.gz,cjejuni,2276,9,2,2,10,10,59,5,
+GCF_001765155.fna.gz,cjejuni,8838,9,53,1,53,11,3,3,ST-574 complex
+GCF_001765165.fna.gz,cjejuni,1232,7,17,5,10,11,3,6,ST-353 complex
+GCF_001765215.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001765235.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_001765255.fna.gz,cjejuni,1919,9,2,2,10,10,3,5,ST-52 complex
+GCF_001765265.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001765295.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001765315.fna.gz,cjejuni,2948,7,17,52,72,22,3,6,ST-353 complex
+GCF_001765335.fna.gz,cjejuni,2276,9,2,2,10,10,59,5,
+GCF_001765355.fna.gz,cjejuni,919,7,53,2,15,11,3,3,ST-574 complex
+GCF_001765365.fna.gz,cjejuni,1919,9,2,2,10,10,3,5,ST-52 complex
+GCF_001765395.fna.gz,cjejuni,5666,9,17,5,53,151,3,6,ST-353 complex
+GCF_001767215.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001856905.fna.gz,cjejuni,2921,166,2,1,10,11,3,1,ST-607 complex
+GCF_001856915.fna.gz,cjejuni,8844,7,17,2,2,11,37,1,
+GCF_001856925.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_001856945.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001856985.fna.gz,cjejuni,2927,166,2,5,10,151,3,1,ST-607 complex
+GCF_001857005.fna.gz,cjejuni,161,14,21,2,10,86,3,6,ST-52 complex
+GCF_001857015.fna.gz,cjejuni,587,1,2,42,4,90,25,8,ST-362 complex
+GCF_001857025.fna.gz,cjejuni,8839,9,25,2,10,10,5,5,ST-52 complex
+GCF_001857065.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001857085.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001857095.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001857115.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001865395.fna.gz,cjejuni,3647,9,25,2,10,431,3,6,ST-52 complex
+GCF_001865415.fna.gz,cjejuni,607,8,2,5,53,11,3,1,ST-607 complex
+GCF_001865435.fna.gz,cjejuni,462,7,17,5,2,11,3,6,ST-353 complex
+GCF_001865595.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_001870085.fna.gz,cjejuni,1212,8,2,5,53,11,3,105,ST-607 complex
+GCF_001870105.fna.gz,cjejuni,1212,8,2,5,53,11,3,105,ST-607 complex
+GCF_001870565.fna.gz,cjejuni,997,76,33,78,104,43,109,31,
+GCF_001877095.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877105.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877115.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877125.fna.gz,cjejuni,new_alleles,~1,1,2,83,2,3,6,
+GCF_001877175.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877185.fna.gz,cjejuni,8419,2,3,12,3,2,1,5,ST-21 complex
+GCF_001877195.fna.gz,cjejuni,934,1,1,59,2,10,5,7,
+GCF_001877205.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877255.fna.gz,cjejuni,934,1,1,59,2,10,5,7,
+GCF_001877265.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001877285.fna.gz,cjejuni,-,1,2,3,-,5,9,3,
+GCF_001877305.fna.gz,cjejuni,2219,10,7,10,4,1,7,1,ST-45 complex
+GCF_001877335.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001877355.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001877365.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001877395.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001877415.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001877435.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001877445.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877465.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877495.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877515.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877525.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877555.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877575.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001877595.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001877615.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001877625.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001877655.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001877675.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001877695.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001877705.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001877715.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001877725.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001877775.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877855.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877865.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877895.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877905.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877935.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877945.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877975.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001877985.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878015.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878025.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878035.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001878065.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_001878095.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001878105.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001878125.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001878155.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001878175.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001878185.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878205.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878235.fna.gz,cjejuni,8419,2,3,12,3,2,1,5,ST-21 complex
+GCF_001878255.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001878275.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001878285.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001878295.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_001878335.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_001878355.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_001878375.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878385.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878395.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878435.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878455.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878465.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878485.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878515.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_001878525.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_001878545.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001878575.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001878595.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001878615.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001878625.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_001878635.fna.gz,cjejuni,1244,1,1,2,2,225,3,17,ST-61 complex
+GCF_001879185.fna.gz,cjejuni,8536,40,1,1,3,2,1,6,ST-21 complex
+GCF_001912825.fna.gz,cjejuni,8845,64,22,164,98,123,101,60,
+GCF_001912835.fna.gz,cjejuni,6629,1,6,404,176,40,180,3,ST-179 complex
+GCF_001912845.fna.gz,cjejuni,1962,55,172,21,49,125,83,51,
+GCF_001912855.fna.gz,cjejuni,1224,18,22,22,97,115,175,47,
+GCF_001912915.fna.gz,cjejuni,3630,9,2,42,4,11,9,253,
+GCF_001912925.fna.gz,cjejuni,113,24,30,2,2,11,3,6,ST-460 complex
+GCF_001912945.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_001912985.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_001912995.fna.gz,cjejuni,5525,18,22,229,24,586,86,6,
+GCF_001913005.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_001913015.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_001913065.fna.gz,cjejuni,2276,9,2,2,10,10,59,5,
+GCF_001913075.fna.gz,cjejuni,2276,9,2,2,10,10,59,5,
+GCF_001951235.fna.gz,cjejuni,861,2,1,42,3,148,1,5,ST-21 complex
+GCF_001951255.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001951275.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_001951295.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001951315.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_001951335.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002000335.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002024325.fna.gz,cjejuni,5843,1,1,5,48,394,88,233,
+GCF_002028305.fna.gz,cjejuni,5843,1,1,5,48,394,88,233,
+GCF_002101355.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002110605.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110615.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002110625.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110635.fna.gz,cjejuni,883,2,17,2,3,2,1,5,ST-21 complex
+GCF_002110685.fna.gz,cjejuni,141,2,1,10,3,2,1,5,ST-21 complex
+GCF_002110695.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110705.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110715.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110765.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110775.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110805.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110815.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110825.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110835.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110885.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002110905.fna.gz,cjejuni,1948,2,71,12,3,2,1,5,ST-21 complex
+GCF_002111525.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002118115.fna.gz,cjejuni,5731,24,2,2,2,10,3,12,ST-464 complex
+GCF_002120145.fna.gz,cjejuni,637,10,33,22,49,43,82,31,ST-1275 complex
+GCF_002120155.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002120165.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002120285.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002168235.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002177255.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002177315.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002177345.fna.gz,cjejuni,-,-,-,-,-,~334,-,-,
+GCF_002177365.fna.gz,cjejuni,9355,200,6,61,147,40,180,3,
+GCF_002177375.fna.gz,cjejuni,-,-,-,-,-,~334,-,-,
+GCF_002177385.fna.gz,cjejuni,933,10,1,59,19,10,5,7,ST-403 complex
+GCF_002177435.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_002177455.fna.gz,cjejuni,806,2,1,1,3,140,3,5,ST-21 complex
+GCF_002177465.fna.gz,cjejuni,9354,180,654,2,213,19,231,147,
+GCF_002177475.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_002177515.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_002177535.fna.gz,cjejuni,4186,1,6,137,176,40,180,3,ST-179 complex
+GCF_002177545.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002177555.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002177595.fna.gz,cjejuni,4186,1,6,137,176,40,180,3,ST-179 complex
+GCF_002177615.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002177625.fna.gz,cjejuni,538,4,7,10,4,42,25,1,ST-45 complex
+GCF_002177655.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002177675.fna.gz,cjejuni,-,-,-,-,-,~334,-,-,
+GCF_002177685.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_002177695.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002177735.fna.gz,cjejuni,9353,2,15,4,48,17,25,23,ST-1034 complex
+GCF_002177745.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002177775.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002177805.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_002177835.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_002177865.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002177885.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_002177905.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_002177935.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_002177955.fna.gz,cjejuni,693,2,29,4,48,13,24,57,
+GCF_002177965.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_002177985.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_002178035.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178055.fna.gz,cjejuni,538,4,7,10,4,42,25,1,ST-45 complex
+GCF_002178075.fna.gz,cjejuni,4186,1,6,137,176,40,180,3,ST-179 complex
+GCF_002178085.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178105.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_002178135.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178155.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_002178175.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002178195.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002178225.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002178235.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002178265.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_002178285.fna.gz,cjejuni,679,4,7,70,4,1,7,1,ST-45 complex
+GCF_002178295.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002178325.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002178355.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002178365.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_002178405.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002178435.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_002178445.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_002178475.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_002178495.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002178505.fna.gz,cjejuni,1209,2,1,137,3,2,1,5,ST-21 complex
+GCF_002178545.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_002178575.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178585.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002178595.fna.gz,cjejuni,-,7,2,-,53,11,3,1,
+GCF_002178635.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002178655.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_002178665.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178675.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_002178725.fna.gz,cjejuni,924,7,2,5,53,11,3,1,ST-607 complex
+GCF_002178735.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002178775.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178795.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002178805.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_002178815.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002178915.fna.gz,cjejuni,new_alleles,2,1,12,~3,2,1,5,
+GCF_002179005.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179015.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002179045.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_002179075.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179085.fna.gz,cjejuni,538,4,7,10,4,42,25,1,ST-45 complex
+GCF_002179115.fna.gz,cjejuni,8,2,1,1,3,2,1,6,ST-21 complex
+GCF_002179125.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002179155.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179165.fna.gz,cjejuni,new_alleles,203,267,228,443,~493,~475,~455,
+GCF_002179195.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_002179215.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179235.fna.gz,cjejuni,2521,150,4,1,2,7,1,5,ST-48 complex
+GCF_002179245.fna.gz,cjejuni,922,1,1,2,83,2,3,6,
+GCF_002179265.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002179285.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002179315.fna.gz,cjejuni,-,9,2,-,62,4,-,17,
+GCF_002179335.fna.gz,cjejuni,440,24,17,2,10,23,3,12,ST-443 complex
+GCF_002179345.fna.gz,cjejuni,924,7,2,5,53,11,3,1,ST-607 complex
+GCF_002179375.fna.gz,cjejuni,9506,7,1,12,3,2,1,6,ST-21 complex
+GCF_002179395.fna.gz,cjejuni,929,9,2,4,62,4,5,17,ST-257 complex
+GCF_002179415.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179425.fna.gz,cjejuni,460,24,30,2,2,89,59,6,ST-460 complex
+GCF_002179455.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_002179475.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002179485.fna.gz,cjejuni,1219,7,17,5,10,11,61,1,
+GCF_002179615.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002179635.fna.gz,cjejuni,-,-,-,-,~521,~328,-,-,
+GCF_002197895.fna.gz,cjejuni,683,35,43,9,5,121,46,21,
+GCF_002197915.fna.gz,cjejuni,8853,18,420,22,18,205,17,6,
+GCF_002197935.fna.gz,cjejuni,793,64,33,68,98,1,17,16,
+GCF_002209025.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_002209045.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_002209065.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_002214785.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_002224325.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_002224385.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_002234455.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002407125.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_002587105.fna.gz,cjejuni,883,2,17,2,3,2,1,5,ST-21 complex
+GCF_002587225.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_002804365.fna.gz,cjejuni,1398,2,4,5,93,11,3,6,ST-658 complex
+GCF_002804375.fna.gz,cjejuni,new_alleles,9,~36,5,2,10,11,26,
+GCF_002804405.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804425.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804445.fna.gz,cjejuni,6091,2,4,5,25,11,203,5,
+GCF_002804455.fna.gz,cjejuni,8752,7,17,5,724,11,3,6,ST-353 complex
+GCF_002804485.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804495.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002804525.fna.gz,cjejuni,660,1,3,6,4,54,91,3,ST-22 complex
+GCF_002804545.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804555.fna.gz,cjejuni,8749,3,1,5,10,11,3,6,ST-49 complex
+GCF_002804585.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002804595.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002804625.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002804635.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804645.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002804655.fna.gz,cjejuni,1962,55,172,21,49,125,83,51,
+GCF_002804705.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002804715.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002804735.fna.gz,cjejuni,332,62,4,5,2,74,1,5,ST-48 complex
+GCF_002804745.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804785.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_002804795.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002804805.fna.gz,cjejuni,8751,462,4,5,10,11,3,46,
+GCF_002804815.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804865.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_002804875.fna.gz,cjejuni,9084,2,17,5,10,482,3,6,ST-353 complex
+GCF_002804885.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002804895.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002804945.fna.gz,cjejuni,8748,7,21,5,2,4,61,44,
+GCF_002804955.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002804965.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002804975.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805025.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805045.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805065.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805075.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805105.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805115.fna.gz,cjejuni,1071,83,84,5,10,11,3,46,
+GCF_002805145.fna.gz,cjejuni,1359,2,1,5,10,2,1,5,ST-21 complex
+GCF_002805155.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805185.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805195.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805225.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805235.fna.gz,cjejuni,1359,2,1,5,10,2,1,5,ST-21 complex
+GCF_002805265.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002805275.fna.gz,cjejuni,6257,7,2,2,2,11,5,6,ST-354 complex
+GCF_002805305.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805315.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_002805345.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002805365.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002805385.fna.gz,cjejuni,463,24,17,2,15,23,12,12,ST-443 complex
+GCF_002805395.fna.gz,cjejuni,1398,2,4,5,93,11,3,6,ST-658 complex
+GCF_002805445.fna.gz,cjejuni,1775,10,27,59,19,10,5,7,ST-403 complex
+GCF_002805465.fna.gz,cjejuni,3997,1,2,3,4,457,9,3,ST-42 complex
+GCF_002805475.fna.gz,cjejuni,8747,8,17,5,2,11,12,6,ST-354 complex
+GCF_002805485.fna.gz,cjejuni,8748,7,21,5,2,4,61,44,
+GCF_002805525.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002805545.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002805555.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002805565.fna.gz,cjejuni,469,1,2,3,4,5,9,6,ST-42 complex
+GCF_002805605.fna.gz,cjejuni,8746,55,21,2,10,11,37,6,
+GCF_002805625.fna.gz,cjejuni,8745,2,4,52,93,11,3,6,ST-658 complex
+GCF_002805635.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002805665.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002805675.fna.gz,cjejuni,8745,2,4,52,93,11,3,6,ST-658 complex
+GCF_002805755.fna.gz,cjejuni,2042,2,2,42,4,90,25,8,
+GCF_002805765.fna.gz,cjejuni,1398,2,4,5,93,11,3,6,ST-658 complex
+GCF_002805805.fna.gz,cjejuni,8744,2,4,5,2,882,1,5,ST-48 complex
+GCF_002805815.fna.gz,cjejuni,8744,2,4,5,2,882,1,5,ST-48 complex
+GCF_002805845.fna.gz,cjejuni,8744,2,4,5,2,882,1,5,ST-48 complex
+GCF_002805865.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002805885.fna.gz,cjejuni,660,1,3,6,4,54,91,3,ST-22 complex
+GCF_002805905.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_002805915.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002805945.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805955.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002805985.fna.gz,cjejuni,3852,8,2,2,2,11,345,6,ST-354 complex
+GCF_002805995.fna.gz,cjejuni,2304,2,4,5,25,11,3,5,
+GCF_002806025.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_002806035.fna.gz,cjejuni,2304,2,4,5,25,11,3,5,
+GCF_002806055.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_002806085.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_002806105.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806115.fna.gz,cjejuni,1723,8,17,2,2,11,12,6,ST-354 complex
+GCF_002806125.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806165.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806185.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002806205.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002806225.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002806245.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002806265.fna.gz,cjejuni,8742,9,2,2,10,10,3,1,ST-464 complex
+GCF_002806285.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002806295.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_002806325.fna.gz,cjejuni,1522,7,84,5,2,11,203,6,ST-353 complex
+GCF_002806335.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_002806365.fna.gz,cjejuni,791,7,97,5,2,135,68,26,
+GCF_002806375.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806405.fna.gz,cjejuni,9083,7,17,571,2,89,710,6,ST-353 complex
+GCF_002806415.fna.gz,cjejuni,9082,7,669,5,2,11,1,5,
+GCF_002806445.fna.gz,cjejuni,9081,2,1,52,10,11,1,5,ST-21 complex
+GCF_002806455.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806465.fna.gz,cjejuni,607,8,2,5,53,11,3,1,ST-607 complex
+GCF_002806475.fna.gz,cjejuni,660,1,3,6,4,54,91,3,ST-22 complex
+GCF_002806525.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806535.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_002806565.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002806575.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002806605.fna.gz,cjejuni,2086,2,4,5,25,11,1,5,ST-206 complex
+GCF_002806625.fna.gz,cjejuni,2289,83,84,1,10,11,3,46,
+GCF_002834105.fna.gz,cjejuni,2282,2,84,5,68,2,1,5,ST-206 complex
+GCF_002834185.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_002834205.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_002895835.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_002895865.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_002895875.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_002914605.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_002914625.fna.gz,cjejuni,-,-,4,84,105,126,25,-,
+GCF_002964885.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_002964895.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_002964945.fna.gz,cjejuni,3647,9,25,2,10,431,3,6,ST-52 complex
+GCF_003030185.fna.gz,cjejuni,6238,8,2,27,53,11,3,1,ST-607 complex
+GCF_003048115.fna.gz,cjejuni,985,10,27,89,19,10,132,7,ST-403 complex
+GCF_003048165.fna.gz,cjejuni,660,1,3,6,4,54,91,3,ST-22 complex
+GCF_003048185.fna.gz,cjejuni,587,1,2,42,4,90,25,8,ST-362 complex
+GCF_003060725.fna.gz,cjejuni,53,2,1,21,3,2,1,5,ST-21 complex
+GCF_003060745.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003060765.fna.gz,cjejuni,5843,1,1,5,48,394,88,233,
+GCF_003060785.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_003095715.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003095725.fna.gz,cjejuni,-,-,-,52,2,89,282,5,
+GCF_003095755.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003095775.fna.gz,cjejuni,1911,7,84,5,10,119,178,26,
+GCF_003095795.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003095815.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_003095835.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_003095855.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003095875.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003095895.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003095915.fna.gz,cjejuni,677,10,81,50,99,120,76,52,ST-677 complex
+GCF_003095935.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003095955.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003095975.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003095995.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_003368045.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_003368065.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003368085.fna.gz,cjejuni,230,4,7,41,4,42,7,1,ST-45 complex
+GCF_003368105.fna.gz,cjejuni,5673,18,22,22,18,410,103,16,
+GCF_003368125.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_003368145.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_003368165.fna.gz,cjejuni,5671,7,17,351,15,23,3,12,ST-443 complex
+GCF_003368185.fna.gz,cjejuni,3140,33,2,2,2,10,3,1,ST-464 complex
+GCF_003368205.fna.gz,cjejuni,1332,2,1,29,28,58,25,58,ST-1332 complex
+GCF_003368225.fna.gz,cjejuni,1972,7,71,5,62,11,67,1,
+GCF_003368245.fna.gz,cjejuni,508,1,6,60,24,12,28,1,ST-508 complex
+GCF_003574945.fna.gz,cjejuni,356,14,17,5,2,11,3,6,ST-353 complex
+GCF_003950275.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_003959725.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003959745.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003959755.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003959765.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003959815.fna.gz,cjejuni,6228,18,89,77,98,122,86,16,ST-952 complex
+GCF_003959835.fna.gz,cjejuni,7809,2,59,4,27,13,25,23,ST-1034 complex
+GCF_003959845.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_003959855.fna.gz,cjejuni,704,2,29,4,27,10,25,57,
+GCF_003959865.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_003959915.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_003959935.fna.gz,cjejuni,1030,37,4,4,48,13,25,57,
+GCF_003959945.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_003959965.fna.gz,cjejuni,1299,2,61,4,134,74,57,23,ST-1034 complex
+GCF_003959975.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_003959995.fna.gz,cjejuni,2839,37,52,4,131,380,99,23,
+GCF_003960035.fna.gz,cjejuni,2354,37,4,4,48,13,25,23,
+GCF_003960045.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_003960075.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_003960085.fna.gz,cjejuni,2839,37,52,4,131,380,99,23,
+GCF_003960095.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_003960135.fna.gz,cjejuni,2839,37,52,4,131,380,99,23,
+GCF_003960145.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_003960175.fna.gz,cjejuni,7842,37,52,57,26,380,29,23,ST-692 complex
+GCF_003960185.fna.gz,cjejuni,692,37,52,57,26,127,29,23,ST-692 complex
+GCF_003960215.fna.gz,cjejuni,692,37,52,57,26,127,29,23,ST-692 complex
+GCF_003960225.fna.gz,cjejuni,4776,37,52,4,26,129,29,23,ST-692 complex
+GCF_003960235.fna.gz,cjejuni,7896,64,162,499,100,194,101,60,
+GCF_003960275.fna.gz,cjejuni,7895,64,584,77,100,138,101,16,
+GCF_003960285.fna.gz,cjejuni,5543,18,22,22,18,194,17,16,
+GCF_003960295.fna.gz,cjejuni,8816,64,105,85,98,652,54,60,
+GCF_003960305.fna.gz,cjejuni,7851,64,22,71,100,134,187,60,
+GCF_003960345.fna.gz,cjejuni,7893,64,22,68,100,134,593,518,
+GCF_003960375.fna.gz,cjejuni,7837,64,22,212,97,122,301,16,
+GCF_003960385.fna.gz,cjejuni,7893,64,22,68,100,134,593,518,
+GCF_003960395.fna.gz,cjejuni,3218,64,70,22,98,123,86,16,
+GCF_003960435.fna.gz,cjejuni,7837,64,22,212,97,122,301,16,
+GCF_003960445.fna.gz,cjejuni,7849,64,22,310,100,134,94,16,
+GCF_003960475.fna.gz,cjejuni,7848,258,174,474,193,241,314,131,
+GCF_003960485.fna.gz,cjejuni,6427,64,95,20,100,514,101,60,
+GCF_003960495.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003960535.fna.gz,cjejuni,7889,258,174,497,193,574,615,131,
+GCF_003960545.fna.gz,cjejuni,4875,64,70,22,103,123,86,16,
+GCF_003960575.fna.gz,cjejuni,7847,64,288,203,189,134,187,60,
+GCF_003960585.fna.gz,cjejuni,7839,64,89,85,189,134,101,16,
+GCF_003960595.fna.gz,cjejuni,7882,64,583,22,111,122,303,16,
+GCF_003960625.fna.gz,cjejuni,5543,18,22,22,18,194,17,16,
+GCF_003960645.fna.gz,cjejuni,7841,270,98,5,397,511,596,304,
+GCF_003960655.fna.gz,cjejuni,7840,396,162,476,100,194,101,60,
+GCF_003960665.fna.gz,cjejuni,1483,64,22,20,100,134,94,16,
+GCF_003960705.fna.gz,cjejuni,7831,64,22,85,98,652,270,60,
+GCF_003960735.fna.gz,cjejuni,7837,64,22,212,97,122,301,16,
+GCF_003960745.fna.gz,cjejuni,7836,258,174,207,193,336,314,229,
+GCF_003960755.fna.gz,cjejuni,1319,64,33,20,111,134,103,16,
+GCF_003960775.fna.gz,cjejuni,7835,64,22,20,100,134,101,171,
+GCF_003960795.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003960835.fna.gz,cjejuni,7833,64,22,203,100,134,103,16,
+GCF_003960845.fna.gz,cjejuni,7834,18,89,77,98,122,101,16,ST-952 complex
+GCF_003960855.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003960865.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003960895.fna.gz,cjejuni,6460,64,33,22,98,94,17,16,
+GCF_003960935.fna.gz,cjejuni,4565,270,98,5,397,511,420,304,
+GCF_003960945.fna.gz,cjejuni,1752,18,22,20,98,122,254,16,ST-952 complex
+GCF_003960955.fna.gz,cjejuni,7832,64,89,20,77,122,103,16,
+GCF_003960995.fna.gz,cjejuni,7830,64,22,121,100,134,270,16,
+GCF_003961005.fna.gz,cjejuni,1483,64,22,20,100,134,94,16,
+GCF_003961035.fna.gz,cjejuni,7820,64,288,203,189,134,94,60,
+GCF_003961045.fna.gz,cjejuni,7826,18,235,475,18,134,285,6,
+GCF_003961055.fna.gz,cjejuni,7808,18,22,77,98,122,101,16,ST-952 complex
+GCF_003961085.fna.gz,cjejuni,7825,258,174,474,193,753,595,131,
+GCF_003961095.fna.gz,cjejuni,7822,64,288,71,98,652,94,16,
+GCF_003961135.fna.gz,cjejuni,6589,64,89,20,100,134,101,16,
+GCF_003961145.fna.gz,cjejuni,7821,64,22,31,100,134,103,16,
+GCF_003961175.fna.gz,cjejuni,7820,64,288,203,189,134,94,60,
+GCF_003961185.fna.gz,cjejuni,4875,64,70,22,103,123,86,16,
+GCF_003961215.fna.gz,cjejuni,7819,64,133,71,98,652,94,16,
+GCF_003961225.fna.gz,cjejuni,7813,64,89,20,98,134,593,16,
+GCF_003961235.fna.gz,cjejuni,7815,64,105,203,100,134,94,16,
+GCF_003961245.fna.gz,cjejuni,7813,64,89,20,98,134,593,16,
+GCF_003961275.fna.gz,cjejuni,8808,76,22,212,614,134,54,560,
+GCF_003961315.fna.gz,cjejuni,7811,64,133,203,142,134,160,60,
+GCF_003961325.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003961335.fna.gz,cjejuni,7808,18,22,77,98,122,101,16,ST-952 complex
+GCF_003961365.fna.gz,cjejuni,6518,216,165,311,100,124,86,390,
+GCF_003961385.fna.gz,cjejuni,7808,18,22,77,98,122,101,16,ST-952 complex
+GCF_003961415.fna.gz,cjejuni,7806,64,22,203,100,134,591,16,
+GCF_003961425.fna.gz,cjejuni,7805,64,22,85,98,134,101,16,
+GCF_003961435.fna.gz,cjejuni,7804,258,174,207,193,336,590,131,
+GCF_003961465.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003961495.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003961505.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003961515.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003961535.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_003961565.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_003961595.fna.gz,cjejuni,995,2,4,84,105,126,25,57,
+GCF_003961605.fna.gz,cjejuni,704,2,29,4,27,10,25,57,
+GCF_003961615.fna.gz,cjejuni,2314,2,61,4,64,332,7,23,ST-1034 complex
+GCF_003961625.fna.gz,cjejuni,991,37,52,57,26,107,29,23,ST-692 complex
+GCF_003961665.fna.gz,cjejuni,7844,2,4,4,27,126,597,23,
+GCF_003961695.fna.gz,cjejuni,1030,37,4,4,48,13,25,57,
+GCF_003961705.fna.gz,cjejuni,693,2,29,4,48,13,24,57,
+GCF_003961715.fna.gz,cjejuni,693,2,29,4,48,13,24,57,
+GCF_003961735.fna.gz,cjejuni,7843,18,22,72,18,410,103,16,
+GCF_003961745.fna.gz,cjejuni,1299,2,61,4,134,74,57,23,ST-1034 complex
+GCF_003961795.fna.gz,cjejuni,4776,37,52,4,26,129,29,23,ST-692 complex
+GCF_003961815.fna.gz,cjejuni,6788,2,1,4,28,58,29,58,ST-1332 complex
+GCF_003961825.fna.gz,cjejuni,2839,37,52,4,131,380,99,23,
+GCF_003961835.fna.gz,cjejuni,7850,64,22,71,189,134,118,60,
+GCF_003961855.fna.gz,cjejuni,1282,64,162,20,100,194,101,60,
+GCF_003961875.fna.gz,cjejuni,7891,27,99,498,104,774,285,31,
+GCF_003961905.fna.gz,cjejuni,6428,344,70,22,98,123,86,16,
+GCF_003961935.fna.gz,cjejuni,4875,64,70,22,103,123,86,16,
+GCF_003961945.fna.gz,cjejuni,6390,64,133,20,100,134,160,16,
+GCF_003961955.fna.gz,cjejuni,7881,76,70,496,104,116,109,31,
+GCF_003961965.fna.gz,cjejuni,1539,64,22,22,100,242,204,16,
+GCF_003962015.fna.gz,cjejuni,6460,64,33,22,98,94,17,16,
+GCF_003962025.fna.gz,cjejuni,6590,64,95,77,98,134,94,16,
+GCF_003962045.fna.gz,cjejuni,7831,64,22,85,98,652,270,60,
+GCF_003962055.fna.gz,cjejuni,1539,64,22,22,100,242,204,16,
+GCF_003962075.fna.gz,cjejuni,7828,64,19,20,98,754,101,16,
+GCF_003962115.fna.gz,cjejuni,6460,64,33,22,98,94,17,16,
+GCF_003962125.fna.gz,cjejuni,7824,64,226,85,100,134,54,16,
+GCF_003962145.fna.gz,cjejuni,4875,64,70,22,103,123,86,16,
+GCF_003962165.fna.gz,cjejuni,7823,64,22,203,100,134,258,16,
+GCF_003962175.fna.gz,cjejuni,7817,64,22,460,351,752,187,60,
+GCF_003962215.fna.gz,cjejuni,7815,64,105,203,100,134,94,16,
+GCF_003962225.fna.gz,cjejuni,7814,80,89,71,98,652,594,16,
+GCF_003962245.fna.gz,cjejuni,7810,76,22,460,100,751,592,60,
+GCF_003962255.fna.gz,cjejuni,4875,64,70,22,103,123,86,16,
+GCF_003962275.fna.gz,cjejuni,6460,64,33,22,98,94,17,16,
+GCF_003962455.fna.gz,cjejuni,7803,64,22,20,351,134,94,16,
+GCF_003962465.fna.gz,cjejuni,6460,64,33,22,98,94,17,16,
+GCF_003971585.fna.gz,cjejuni,221,2,21,5,2,2,1,5,ST-206 complex
+GCF_004195085.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_004195125.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_004195185.fna.gz,cjejuni,-,1,-,6,4,3,3,3,
+GCF_004195195.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_004328905.fna.gz,cjejuni,6849,8,17,2,2,11,1,6,ST-354 complex
+GCF_004357885.fna.gz,cjejuni,2654,10,31,95,268,101,134,1,
+GCF_004924295.fna.gz,cjejuni,new_alleles,37,61,4,734,127,~627,6,
+GCF_006345835.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_006345845.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345885.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345895.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345905.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345955.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_006345965.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345975.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006345985.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346035.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346045.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346065.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_006346075.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_006346125.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346135.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346145.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_006346195.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346205.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346215.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346235.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346275.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_006346285.fna.gz,cjejuni,-,2,1,5,-,-,1,5,
+GCF_006346505.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_006346515.fna.gz,cjejuni,6522,24,17,389,10,23,3,12,ST-443 complex
+GCF_006346525.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006346535.fna.gz,cjejuni,824,9,2,2,2,11,5,6,ST-257 complex
+GCF_006346585.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006346605.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_006346615.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_006346625.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006346665.fna.gz,cjejuni,-,2,-,1,3,2,1,5,
+GCF_006346705.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_006346715.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_006346745.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006346765.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_006346775.fna.gz,cjejuni,new_alleles,4,7,10,~4,1,7,1,
+GCF_006346785.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006346825.fna.gz,cjejuni,2153,7,21,2,62,67,48,6,ST-581 complex
+GCF_006346835.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006346895.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006346925.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_006346945.fna.gz,cjejuni,-,2,-,1,3,2,1,5,
+GCF_006346965.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_006346975.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_006346995.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006347045.fna.gz,cjejuni,new_alleles,9,17,5,10,~11,3,6,
+GCF_006347055.fna.gz,cjejuni,574,7,53,2,10,11,3,3,ST-574 complex
+GCF_006347065.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_006347075.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006347125.fna.gz,cjejuni,266,2,1,5,3,2,54,5,ST-21 complex
+GCF_006347135.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006347145.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006347185.fna.gz,cjejuni,-,8,-,5,2,10,59,6,
+GCF_006347205.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_006347215.fna.gz,cjejuni,-,2,-,1,2,7,1,5,
+GCF_006347225.fna.gz,cjejuni,-,2,1,1,3,2,1,-,
+GCF_006347235.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006347285.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_006347305.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006347315.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_006347365.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_006347375.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_006347385.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006347425.fna.gz,cjejuni,441,7,1,2,83,2,3,6,
+GCF_006347445.fna.gz,cjejuni,-,-,4,1,2,7,1,5,
+GCF_006347465.fna.gz,cjejuni,432,1,4,2,2,6,1,17,ST-61 complex
+GCF_006347495.fna.gz,cjejuni,-,-,75,4,-,-,34,1,
+GCF_006347525.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006347535.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006347565.fna.gz,cjejuni,-,2,4,1,-,-,1,5,
+GCF_006347575.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006347605.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_006347615.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006347655.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006347675.fna.gz,cjejuni,670,77,30,2,2,89,59,6,ST-460 complex
+GCF_006347695.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006347725.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_006347745.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006347765.fna.gz,cjejuni,-,9,2,4,62,-,133,6,
+GCF_006347775.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_006347785.fna.gz,cjejuni,2030,9,2,4,62,4,5,12,ST-257 complex
+GCF_006347825.fna.gz,cjejuni,-,-,17,5,2,11,3,-,
+GCF_006347835.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_006347845.fna.gz,cjejuni,-,7,2,5,-,10,3,6,
+GCF_006347865.fna.gz,cjejuni,148,2,1,6,3,2,1,5,ST-21 complex
+GCF_006347905.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_006347925.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006347935.fna.gz,cjejuni,-,6,4,5,-,2,1,5,
+GCF_006347945.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_006347985.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006348015.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006348025.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_006348065.fna.gz,cjejuni,-,166,-,1,10,151,3,1,
+GCF_006348105.fna.gz,cjejuni,206,2,21,5,37,2,1,5,ST-206 complex
+GCF_006348145.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006348155.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_006348185.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348195.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348235.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348265.fna.gz,cjejuni,1519,8,1,5,3,2,1,1,ST-21 complex
+GCF_006348275.fna.gz,cjejuni,-,-,1,1,5,2,1,5,
+GCF_006348305.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_006348325.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006348345.fna.gz,cjejuni,334,4,7,40,4,42,7,1,ST-45 complex
+GCF_006348355.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_006348385.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_006348405.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_006348425.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348435.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006348505.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348535.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_006348565.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006348575.fna.gz,cjejuni,new_ST,4,7,40,85,42,51,1,
+GCF_006348595.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006348615.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_006348645.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006348655.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_006348675.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006348695.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_006348725.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_006348745.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_006348775.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_006348825.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_006348835.fna.gz,cjejuni,367,2,2,4,62,4,5,6,ST-257 complex
+GCF_006348845.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_006348885.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_006348905.fna.gz,cjejuni,-,-,4,5,2,2,1,5,
+GCF_006348925.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_006370335.fna.gz,cjejuni,10362,22,15,57,64,153,58,35,
+GCF_006370385.fna.gz,cjejuni,6,63,34,27,33,45,5,7,
+GCF_006508225.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_007107025.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_007142665.fna.gz,cjejuni,6424,343,6,29,512,40,32,3,ST-179 complex
+GCF_007670275.fna.gz,cjejuni,49,3,1,5,17,11,11,6,ST-49 complex
+GCF_007670295.fna.gz,cjejuni,9823,8,17,5,2,11,3,1,ST-607 complex
+GCF_007670315.fna.gz,cjejuni,567,1,3,6,4,3,3,1,ST-22 complex
+GCF_007670345.fna.gz,cjejuni,538,4,7,10,4,42,25,1,ST-45 complex
+GCF_007670365.fna.gz,cjejuni,658,2,4,2,4,19,3,6,ST-658 complex
+GCF_007670385.fna.gz,cjejuni,227,2,4,5,2,2,1,5,ST-206 complex
+GCF_007670395.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_007670415.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_007670435.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_007670465.fna.gz,cjejuni,9821,18,2,618,805,1,775,16,
+GCF_007670475.fna.gz,cjejuni,9822,2,1,21,3,4,1,5,ST-21 complex
+GCF_007670485.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_007670525.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_007670535.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_007670565.fna.gz,cjejuni,1723,8,17,2,2,11,12,6,ST-354 complex
+GCF_007670585.fna.gz,cjejuni,9820,1,6,5,92,261,7,3,
+GCF_007670595.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_007670605.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007670635.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007670665.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007670675.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007670695.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007670715.fna.gz,cjejuni,new_ST,10,45,617,804,1005,293,647,
+GCF_007670735.fna.gz,cjejuni,128,4,73,10,4,1,7,1,ST-45 complex
+GCF_007670765.fna.gz,cjejuni,9818,531,2,34,803,1004,293,3,
+GCF_007670785.fna.gz,cjejuni,9818,531,2,34,803,1004,293,3,
+GCF_007670795.fna.gz,cjejuni,9818,531,2,34,803,1004,293,3,
+GCF_007670805.fna.gz,cjejuni,9817,1,6,5,176,1003,293,3,
+GCF_007844165.fna.gz,cjejuni,475,2,4,1,4,19,62,5,ST-48 complex
+GCF_007844175.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_007844205.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_007845775.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845785.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845825.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845845.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845865.fna.gz,cjejuni,8149,9,53,5,53,11,3,3,ST-574 complex
+GCF_007845875.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845885.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845935.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845945.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845955.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007845975.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007846005.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007846035.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007846045.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007846055.fna.gz,cjejuni,2988,8,10,2,2,10,12,6,ST-354 complex
+GCF_007923225.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_007923345.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_008386335.fna.gz,cjejuni,44,8,1,6,3,2,1,1,ST-21 complex
+GCF_008727335.fna.gz,cjejuni,441,7,1,2,83,2,3,6,
+GCF_008727415.fna.gz,cjejuni,5453,1,6,137,176,40,478,3,ST-179 complex
+GCF_008727435.fna.gz,cjejuni,10356,7,17,5,2,10,3,257,ST-353 complex
+GCF_008727455.fna.gz,cjejuni,2109,4,7,10,4,10,7,1,ST-45 complex
+GCF_008802045.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_009498375.fna.gz,cjejuni,1212,8,2,5,53,11,3,105,ST-607 complex
+GCF_009649035.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_009767615.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_009906985.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_009906995.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_009939125.fna.gz,cjejuni,2282,2,84,5,68,2,1,5,ST-206 complex
+GCF_009939645.fna.gz,cjejuni,6964,7,2,2,2,11,12,6,ST-354 complex
+GCF_009939665.fna.gz,cjejuni,6964,7,2,2,2,11,12,6,ST-354 complex
+GCF_009939705.fna.gz,cjejuni,6964,7,2,2,2,11,12,6,ST-354 complex
+GCF_009939725.fna.gz,cjejuni,6964,7,2,2,2,11,12,6,ST-354 complex
+GCF_011380075.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_012220765.fna.gz,cjejuni,10317,8,620,57,28,127,668,23,
+GCF_012220945.fna.gz,cjejuni,10086,37,490,292,26,23,29,412,
+GCF_012224585.fna.gz,cjejuni,10314,8,61,80,64,470,99,6,
+GCF_012224765.fna.gz,cjejuni,10313,8,364,80,64,470,25,6,
+GCF_012224905.fna.gz,cjejuni,10086,37,490,292,26,23,29,412,
+GCF_012225065.fna.gz,cjejuni,10086,37,490,292,26,23,29,412,
+GCF_012225225.fna.gz,cjejuni,-,7,367,-,~842,188,29,541,
+GCF_012225445.fna.gz,cjejuni,-,7,367,-,~842,188,29,541,
+GCF_012225685.fna.gz,cjejuni,-,7,367,-,~842,188,29,541,
+GCF_013177475.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_013350425.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_013363775.fna.gz,cjejuni,4774,22,28,4,28,74,99,35,
+GCF_013363815.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_013389555.fna.gz,cjejuni,459,1,2,3,3,5,9,3,ST-42 complex
+GCF_013389575.fna.gz,cjejuni,2827,24,25,2,2,226,59,221,ST-460 complex
+GCF_013390525.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_013390965.fna.gz,cjejuni,51,7,17,2,15,23,3,12,ST-443 complex
+GCF_013392775.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_013392785.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_013392795.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_013392845.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_013392865.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_013392875.fna.gz,cjejuni,122,6,4,5,2,2,1,5,ST-206 complex
+GCF_013392905.fna.gz,cjejuni,1367,10,119,50,126,171,194,112,
+GCF_013392915.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_013392925.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_013392965.fna.gz,cjejuni,583,4,7,10,4,42,51,1,ST-45 complex
+GCF_013392975.fna.gz,cjejuni,657,73,4,2,4,19,3,6,ST-658 complex
+GCF_013392985.fna.gz,cjejuni,4899,9,2,2,2,11,59,6,ST-354 complex
+GCF_013393015.fna.gz,cjejuni,5207,37,187,4,28,19,24,23,
+GCF_013393025.fna.gz,cjejuni,1044,2,10,2,4,19,3,6,ST-658 complex
+GCF_013393065.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_013393075.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_013393085.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_013393785.fna.gz,cjejuni,464,24,2,2,2,10,3,1,ST-464 complex
+GCF_013393805.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_013394995.fna.gz,cjejuni,1212,8,2,5,53,11,3,105,ST-607 complex
+GCF_013432125.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_013465595.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_013465795.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_013466015.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_013466235.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_014082005.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014117735.fna.gz,cjejuni,10086,37,490,292,26,23,29,412,
+GCF_014151305.fna.gz,cjejuni,10086,37,490,292,26,23,29,412,
+GCF_014151465.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014151665.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014151825.fna.gz,cjejuni,10075,7,4,5,3,2,1,5,ST-21 complex
+GCF_014151925.fna.gz,cjejuni,10075,7,4,5,3,2,1,5,ST-21 complex
+GCF_014152105.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014152305.fna.gz,cjejuni,305,9,53,2,10,11,3,3,ST-574 complex
+GCF_014152385.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014152565.fna.gz,cjejuni,2140,9,53,2,53,11,3,3,ST-574 complex
+GCF_014243315.fna.gz,cjejuni,7268,7,2,358,2,188,3,1,ST-464 complex
+GCF_014243325.fna.gz,cjejuni,10087,8,490,4,668,127,24,19,
+GCF_014243335.fna.gz,cjejuni,7268,7,2,358,2,188,3,1,ST-464 complex
+GCF_014243405.fna.gz,cjejuni,10082,8,455,291,668,127,24,147,
+GCF_014243455.fna.gz,cjejuni,4258,2,2,2,10,10,59,5,
+GCF_014252915.fna.gz,cjejuni,10087,8,490,4,668,127,24,19,
+GCF_014265945.fna.gz,cjejuni,4258,2,2,2,10,10,59,5,
+GCF_014305275.fna.gz,cjejuni,1036,7,84,5,10,11,3,6,ST-353 complex
+GCF_014305315.fna.gz,cjejuni,1036,7,84,5,10,11,3,6,ST-353 complex
+GCF_014305325.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_014305335.fna.gz,cjejuni,10311,2,4,5,25,1057,203,5,
+GCF_014305385.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_014305415.fna.gz,cjejuni,8741,2,17,5,10,11,3,6,ST-353 complex
+GCF_014397035.fna.gz,cjejuni,1701,4,7,10,4,1,51,1,ST-45 complex
+GCF_014397105.fna.gz,cjejuni,1701,4,7,10,4,1,51,1,ST-45 complex
+GCF_014397125.fna.gz,cjejuni,1701,4,7,10,4,1,51,1,ST-45 complex
+GCF_014397145.fna.gz,cjejuni,1701,4,7,10,4,1,51,1,ST-45 complex
+GCF_014397185.fna.gz,cjejuni,1701,4,7,10,4,1,51,1,ST-45 complex
+GCF_014397205.fna.gz,cjejuni,-,4,7|39,30|10,4,1,51,17|1,
+GCF_014527495.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_014874875.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_015245165.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_015687655.fna.gz,cjejuni,3015,7,84,45,10,11,3,215,ST-574 complex
+GCF_015687675.fna.gz,cjejuni,760,2,1,52,3,2,100,5,ST-21 complex
+GCF_015687695.fna.gz,cjejuni,3015,7,84,45,10,11,3,215,ST-574 complex
+GCF_015831865.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_015831885.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_015831895.fna.gz,cjejuni,42,1,2,3,4,5,9,3,ST-42 complex
+GCF_015831915.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_015831945.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_015831955.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_015831985.fna.gz,cjejuni,604,1,2,3,27,5,9,3,ST-42 complex
+GCF_016350125.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_016458425.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_016458455.fna.gz,cjejuni,222,2,21,5,2,59,1,5,ST-206 complex
+GCF_016458485.fna.gz,cjejuni,41,16,2,16,62,3,9,8,ST-41 complex
+GCF_016458695.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_016458845.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_016458865.fna.gz,cjejuni,429,7,4,5,2,11,1,5,ST-48 complex
+GCF_016600925.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_016807145.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807155.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807195.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807245.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807265.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807285.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807305.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807315.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807345.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807355.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807385.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807405.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807425.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807445.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807465.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016807475.fna.gz,cjejuni,2993,1,2,42,4,11,9,8,ST-362 complex
+GCF_016865135.fna.gz,cjejuni,5229,8,2,2,212,10,253,147,
+GCF_017351955.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_017352015.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_017356685.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356745.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356765.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356785.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356805.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356825.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356845.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356865.fna.gz,cjejuni,660,1,3,6,4,54,91,3,ST-22 complex
+GCF_017356885.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356905.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356925.fna.gz,cjejuni,262,2,1,1,3,2,1,3,ST-21 complex
+GCF_017356945.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017356965.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017357025.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017357085.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_017644695.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_017644725.fna.gz,cjejuni,230,4,7,41,4,42,7,1,ST-45 complex
+GCF_017644735.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_017644765.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_017644775.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_017644795.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_017644805.fna.gz,cjejuni,934,1,1,59,2,10,5,7,
+GCF_017644845.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_017644865.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_017644875.fna.gz,cjejuni,934,1,1,59,2,10,5,7,
+GCF_017644895.fna.gz,cjejuni,575,1,2,1,4,5,9,3,ST-42 complex
+GCF_017644905.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_017644945.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_017644965.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_017644985.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_017644995.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_017645025.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_017645045.fna.gz,cjejuni,814,2,75,4,48,141,34,1,ST-661 complex
+GCF_017645065.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_017645085.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_017645105.fna.gz,cjejuni,257,9,2,4,62,4,5,6,ST-257 complex
+GCF_017645125.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_017645145.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_017645155.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_017645185.fna.gz,cjejuni,137,4,7,10,4,42,7,1,ST-45 complex
+GCF_017645205.fna.gz,cjejuni,9401,7,84,1,767,11,3,6,
+GCF_017645215.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_017648265.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_017648275.fna.gz,cjejuni,2250,2,1,1,3,2,3,5,ST-21 complex
+GCF_017648375.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_017813295.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_017813695.fna.gz,cjejuni,2042,2,2,42,4,90,25,8,
+GCF_017813725.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_017813755.fna.gz,cjejuni,2042,2,2,42,4,90,25,8,
+GCF_018169175.fna.gz,cjejuni,new_ST,8,620,292,28,1072,668,23,
+GCF_018176755.fna.gz,cjejuni,new_ST,8,620,292,28,1072,668,23,
+GCF_018500585.fna.gz,cjejuni,10221,7,17,5,2,167,3,6,ST-353 complex
+GCF_018500635.fna.gz,cjejuni,982,2,1,2,3,2,1,5,ST-21 complex
+GCF_018500665.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_018500675.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_018500685.fna.gz,cjejuni,6227,2,1,1,362,2,1,6,ST-21 complex
+GCF_018500715.fna.gz,cjejuni,3,3,2,5,10,11,11,6,ST-49 complex
+GCF_018500745.fna.gz,cjejuni,10222,2,1,2,3,2,9,5,ST-21 complex
+GCF_018500765.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_018500785.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_018500795.fna.gz,cjejuni,10221,7,17,5,2,167,3,6,ST-353 complex
+GCF_018500805.fna.gz,cjejuni,934,1,1,59,2,10,5,7,
+GCF_018500845.fna.gz,cjejuni,353,7,17,5,2,10,3,6,ST-353 complex
+GCF_018500865.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_018500875.fna.gz,cjejuni,10220,1,6,61,147,40,180,3,ST-179 complex
+GCF_018500935.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_018727205.fna.gz,cjejuni,6461,2,17,5,2,10,59,6,ST-353 complex
+GCF_018727425.fna.gz,cjejuni,6532,346,2,3,4,5,9,3,ST-42 complex
+GCF_018727585.fna.gz,cjejuni,7010,296,34,27,33,697,545,213,
+GCF_018727665.fna.gz,cjejuni,2328,8,2,2,212,153,253,147,
+GCF_018727795.fna.gz,cjejuni,6461,2,17,5,2,10,59,6,ST-353 complex
+GCF_018727945.fna.gz,cjejuni,2274,9,17,5,10,350,3,3,
+GCF_018727985.fna.gz,cjejuni,2066,9,10,5,10,22,3,6,ST-52 complex
+GCF_018885125.fna.gz,cjejuni,760,2,1,52,3,2,100,5,ST-21 complex
+GCF_018885205.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_018885225.fna.gz,cjejuni,760,2,1,52,3,2,100,5,ST-21 complex
+GCF_019056415.fna.gz,cjejuni,10483,2,1,12,3,127,1,5,ST-21 complex
+GCF_019056455.fna.gz,cjejuni,10560,24,2,2,2,1077,3,1,ST-464 complex
+GCF_900000215.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_900036015.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_900117385.fna.gz,cjejuni,new_alleles,2,1,~5,3,4,1,5,
+GCF_900446415.fna.gz,cjejuni,49,3,1,5,17,11,11,6,ST-49 complex
+GCF_900446445.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_900446455.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_900446505.fna.gz,cjejuni,449,7,71,5,62,11,67,6,ST-581 complex
+GCF_900446545.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_900475265.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_900638165.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
+GCF_900638175.fna.gz,cjejuni,362,1,2,49,4,11,66,8,ST-362 complex
+GCF_900638185.fna.gz,cjejuni,354,8,10,2,2,11,12,6,ST-354 complex
+GCF_900638195.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_900638205.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_900638225.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_900638235.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_900638285.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_900638365.fna.gz,cjejuni,43,2,1,5,3,4,1,5,ST-21 complex
+GCF_902386995.fna.gz,cjejuni,206,2,21,5,37,2,1,5,ST-206 complex
+GCF_904844825.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_904844835.fna.gz,cjejuni,572,62,4,5,2,2,1,5,ST-206 complex
+GCF_904844865.fna.gz,cjejuni,-,2,4,1,-,-,1,5,
+GCF_904844875.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_904844885.fna.gz,cjejuni,400,8,17,5,2,10,59,6,ST-353 complex
+GCF_904844905.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904844925.fna.gz,cjejuni,5,7,2,5,2,10,3,6,ST-353 complex
+GCF_904844945.fna.gz,cjejuni,-,2,1,12,3,-,1,5,
+GCF_904844955.fna.gz,cjejuni,50,2,1,12,3,2,1,5,ST-21 complex
+GCF_904844965.fna.gz,cjejuni,400,8,17,5,2,10,59,6,ST-353 complex
+GCF_904844975.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904844985.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904844995.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845005.fna.gz,cjejuni,new_alleles,7,17,2,15,~23,3,12,
+GCF_904845015.fna.gz,cjejuni,52,9,25,2,10,22,3,6,ST-52 complex
+GCF_904845025.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904845035.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845045.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904845055.fna.gz,cjejuni,-,4,7,-,4,1,-,1,
+GCF_904845075.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904845085.fna.gz,cjejuni,19,2,1,5,3,2,1,5,ST-21 complex
+GCF_904845095.fna.gz,cjejuni,22,1,3,6,4,3,3,3,ST-22 complex
+GCF_904845115.fna.gz,cjejuni,3335,62,4,5,10,2,1,5,ST-206 complex
+GCF_904845165.fna.gz,cjejuni,61,1,4,2,2,6,3,17,ST-61 complex
+GCF_904845175.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845195.fna.gz,cjejuni,-,180,654,2,-,19,231,147,
+GCF_904845205.fna.gz,cjejuni,305,9,53,2,10,11,3,3,ST-574 complex
+GCF_904845215.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904845225.fna.gz,cjejuni,48,2,4,1,2,7,1,5,ST-48 complex
+GCF_904845235.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845245.fna.gz,cjejuni,45,4,7,10,4,1,7,1,ST-45 complex
+GCF_904845255.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845265.fna.gz,cjejuni,-,4,7,-,4,1,7,1,
+GCF_904845275.fna.gz,cjejuni,21,2,1,1,3,2,1,5,ST-21 complex
+GCF_904845315.fna.gz,cjejuni,-,2,1,1,-,-,1,5,
+GCF_905397335.fna.gz,cjejuni,267,4,7,40,4,42,51,1,ST-283 complex
+GCF_905410075.fna.gz,cjejuni,403,10,27,16,19,10,5,7,ST-403 complex
